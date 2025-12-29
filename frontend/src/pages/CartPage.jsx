@@ -3,6 +3,8 @@ import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import jsPDF from "jspdf";
 import logo from "../assets/logo.jpg";
+import { Helmet } from "react-helmet";
+
 
 export default function CartPage() {
   const {
@@ -31,7 +33,17 @@ export default function CartPage() {
 
   if (cart.length === 0) {
     return (
+      
       <section className="max-w-7xl mx-auto px-6 py-20 flex flex-col items-center text-center">
+        <Helmet>
+  <title>Cart — NWT Filtration</title>
+
+  <meta
+    name="description"
+    content="Review products in your cart and generate quotations for industrial water filtration systems."
+  />
+</Helmet>
+
         <div className="w-20 h-20 mb-6 rounded-full bg-gray-100 flex items-center justify-center text-3xl">
           🛒
         </div>

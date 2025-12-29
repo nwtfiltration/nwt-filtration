@@ -1,5 +1,7 @@
 import { useParams, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
+import { Helmet } from "react-helmet";
+
 
 export default function AdminOrderDetails() {
   const { id } = useParams();
@@ -53,6 +55,15 @@ export default function AdminOrderDetails() {
 
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8">
+      <Helmet>
+  <title>Order Details — NWT Filtration Admin</title>
+
+  <meta
+    name="description"
+    content="View customer order details, update status and manage delivery workflow."
+  />
+</Helmet>
+
       <Link to="/admin/orders" className="text-blue-600 underline">
         ← Back to Orders
       </Link>

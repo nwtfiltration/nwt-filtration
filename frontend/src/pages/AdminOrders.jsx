@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 export default function AdminOrders() {
   const [orders, setOrders] = useState([]);
@@ -13,6 +14,15 @@ export default function AdminOrders() {
 
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
+      <Helmet>
+  <title>Admin — Orders Dashboard | NWT Filtration</title>
+
+  <meta
+    name="description"
+    content="Admin panel to manage customer orders, payment status and delivery progress."
+  />
+</Helmet>
+
       <h1 className="text-2xl font-bold mb-4">All Orders</h1>
 
       {orders.length === 0 ? (

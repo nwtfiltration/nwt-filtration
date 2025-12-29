@@ -1,6 +1,8 @@
 import { useState, useEffect } from "react";
 import products from "../data/products.json";
 import { useCart } from "../context/CartContext";
+import { Helmet } from "react-helmet";
+
 
 const ITEMS_PER_PAGE = 12;
 
@@ -64,6 +66,15 @@ const AllProducts = () => {
 
   return (
     <section className="px-4 sm:px-6 py-8 sm:py-10">
+      <Helmet>
+  <title>All Products — NWT Filtration</title>
+
+  <meta
+    name="description"
+    content="Browse all RO plants, UF systems, WTP, ETP, UV disinfection and industrial filtration products."
+  />
+</Helmet>
+
       <h2 className="text-2xl font-semibold mb-6">All Products</h2>
 
       {/* FILTER BAR */}

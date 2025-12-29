@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 export default function OrderSuccess() {
   const { orderId } = useParams();
@@ -16,6 +17,15 @@ export default function OrderSuccess() {
 
   return (
     <div className="px-4 sm:px-6 py-8 max-w-3xl mx-auto">
+      <Helmet>
+  <title>Order Placed — NWT Filtration</title>
+
+  <meta
+    name="description"
+    content="Your order has been placed successfully. Our team will contact you for confirmation and delivery."
+  />
+</Helmet>
+
       <h1 className="text-2xl font-bold mb-4">
         Order Placed Successfully 🎉
       </h1>

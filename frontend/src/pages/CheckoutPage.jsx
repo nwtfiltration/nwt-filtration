@@ -1,6 +1,8 @@
 import { useState } from "react";
 import { useCart } from "../context/CartContext";
 import { useNavigate } from "react-router-dom";
+import { Helmet } from "react-helmet";
+
 
 export default function CheckoutPage() {
   const { cart, totalAmount } = useCart();
@@ -69,6 +71,14 @@ export default function CheckoutPage() {
 
   return (
     <section className="max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-10 grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-10">
+      <Helmet>
+  <title>Checkout — NWT Filtration</title>
+
+  <meta
+    name="description"
+    content="Complete your quotation request and order details for RO, UF, UV and industrial filtration systems."
+  />
+</Helmet>
 
       {/* LEFT – BILLING DETAILS */}
       <div className="lg:col-span-2 bg-white border rounded-xl p-5 sm:p-6 space-y-6">

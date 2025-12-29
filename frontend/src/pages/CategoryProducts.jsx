@@ -2,6 +2,8 @@ import { useParams, useNavigate } from "react-router-dom";
 import { useState, useEffect } from "react";
 import products from "../data/products.json";
 import { useCart } from "../context/CartContext";
+import { Helmet } from "react-helmet";
+
 
 const ITEMS_PER_PAGE = 12;
 
@@ -59,6 +61,15 @@ const CategoryProducts = () => {
 
   return (
     <section className="px-4 sm:px-6 py-8 sm:py-10">
+      <Helmet>
+  <title>{categoryName} — NWT Filtration</title>
+
+  <meta
+    name="description"
+    content={`Explore ${categoryName} products from NWT Filtration — reliable industrial water filtration solutions.`}
+  />
+</Helmet>
+
       {/* TOP BAR */}
       <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-8">
         <div>
