@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "MICRON FILTERS",
+    "slug": "micron-filters",
+    "image": "/categories/micron-filters.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "FRP VESSELS",
+    "slug": "frp-vessels",
+    "image": "/categories/frp-vessels.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "RO CHEMICALS",
+    "slug": "ro-chemicals",
+    "image": "/categories/ro-chemicals.jpg"
+  },
+  {
+    "id": 4,
+    "name": "MEDIA",
+    "slug": "media",
+    "image": "/categories/media.jpg"
+  },
+  {
+    "id": 5,
+    "name": "DOSING PUMPS",
+    "slug": "dosing-pumps",
+    "image": "/categories/dosing-pumps.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "MEMBRANES & HOUSINGS",
+    "slug": "membranes-and-housings",
+    "image": "/categories/membranes-and-housings.jpg"
+  },
+  {
+    "id": 7,
+    "name": "MULTIPORT VALVES",
+    "slug": "multiport-valves",
+    "image": "/categories/multiport-valves.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "INSTRUMENTS & PANELS",
+    "slug": "instruments-and-panels",
+    "image": "/categories/instruments-and-panels.jpg"
+  },
+  {
+    "id": 9,
+    "name": "WATER TESTING METERS",
+    "slug": "water-testing-meters",
+    "image": "/categories/water-testing-meters.jpg"
+  },
+  {
+    "id": 10,
+    "name": "RO PLANTS & ACCESSORIES",
+    "slug": "ro-plants-and-accessories",
+    "image": "/categories/ro-plants-and-accessories.png"
+  },
+  {
+    "id": 11,
+    "name": "TESTING KITS",
+    "slug": "testing-kits",
+    "image": "/categories/testing-kits.jpg"
+  }
+]

@@ -1,0 +1,3926 @@
+[
+  {
+    "id": 1,
+    "name": "20''5 MICRON FILTER BAG",
+    "category": "MICRON FILTERS",
+    "subCategory": "MICRON FILTER BAGS",
+    "subCategory2": null,
+    "price": {
+      "original": "400",
+      "discounted": "290"
+    },
+    "image": "/products/micronfilters1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "20 INCH BAG FILTER HOUSING ASSEMBLY",
+    "category": "MICRON FILTERS",
+    "subCategory": "MICRON FILTER HOUSINGS",
+    "subCategory2": null,
+    "price": {
+      "original": "2300",
+      "discounted": "1690"
+    },
+    "image": "/products/micronfilters2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "20 INCH BAG FILTER HOUSING ASSEMBLY (SUPER) - NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "MICRON FILTER HOUSINGS",
+    "subCategory2": null,
+    "price": {
+      "original": "3800",
+      "discounted": "2820"
+    },
+    "image": "/products/micronfilters3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "20 INCH JUMBO MICRON FILTER HOUSING",
+    "category": "MICRON FILTERS",
+    "subCategory": "MICRON FILTER HOUSINGS",
+    "subCategory2": null,
+    "price": {
+      "original": "1200",
+      "discounted": "890"
+    },
+    "image": "/products/micronfilters4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "20 INCH JUMBO MICRON FILTER HOUSING (SUPER) - NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "MICRON FILTER HOUSINGS",
+    "subCategory2": null,
+    "price": {
+      "original": "2100",
+      "discounted": "1490"
+    },
+    "image": "/products/micronfilters5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "20 INCH MICRON FILTER SLIM HOUSING",
+    "category": "MICRON FILTERS",
+    "subCategory": "MICRON FILTER HOUSINGS",
+    "subCategory2": null,
+    "price": {
+      "original": "750",
+      "discounted": "450"
+    },
+    "image": "/products/micronfilters6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "20 INCH JUMBO SPUN FILTER CARTRIDGE – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "SPUN FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "420",
+      "discounted": "307"
+    },
+    "image": "/products/micronfilters7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "20 INCH JUMBO SPUN FILTER CARTRIDGE (DOTTED) (PACK OF 10) – HYDROPURE PLUS",
+    "category": "MICRON FILTERS",
+    "subCategory": "SPUN FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "4500",
+      "discounted": "3640"
+    },
+    "image": "/products/micronfilters8.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "20 INCH SLIM SPUN FILTER CARTRIDGE (DOTTED) (PACK OF 25) – HYDROPURE PLUS",
+    "category": "MICRON FILTERS",
+    "subCategory": "SPUN FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "5600",
+      "discounted": "4225"
+    },
+    "image": "/products/micronfilters9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "20 INCH SPUN FILTER CARTRIDGE (SLIM) – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "SPUN FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "150",
+      "discounted": "90"
+    },
+    "image": "/products/micronfilters10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "30 INCH SPUN FILTER CARTRIDGE (SLIM) – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "SPUN FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "250",
+      "discounted": "135"
+    },
+    "image": "/products/micronfilters11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "40 INCH SPUN FILTER CARTRIDGE (SLIM) – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "SPUN FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "290",
+      "discounted": "180"
+    },
+    "image": "/products/micronfilters12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "10 INCH SPUN FILTER CARTRIDGE (SLIM) – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "SPUN FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "120",
+      "discounted": "60"
+    },
+    "image": "/products/micronfilters13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "10 INCH JUMBO WOUND FILTER CARTRIDGE – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "WOUND FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "270",
+      "discounted": "190"
+    },
+    "image": "/products/micronfilters14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "10 INCH WOUND FILTER CARTRIDGE – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "WOUND FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "180",
+      "discounted": "99"
+    },
+    "image": "/products/micronfilters15.png"
+  },
+  {
+    "id": 16,
+    "name": "20 INCH JUMBO WOUND FILTER CARTRIDGE (ECO) – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "WOUND FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "425",
+      "discounted": "315"
+    },
+    "image": "/products/micronfilters16.png"
+  },
+  {
+    "id": 17,
+    "name": "20 INCH JUMBO WOUND FILTER CARTRIDGE (STANDARD) – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "WOUND FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "450",
+      "discounted": "335"
+    },
+    "image": "/products/micronfilters17.png"
+  },
+  {
+    "id": 18,
+    "name": "20 INCH JUMBO WOUND FILTER CARTRIDGE (SUPER) – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "WOUND FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "590",
+      "discounted": "450"
+    },
+    "image": "/products/micronfilters18.png"
+  },
+  {
+    "id": 19,
+    "name": "20 INCH WOUND FILTER CARTRIDGE – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "WOUND FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "240",
+      "discounted": "135"
+    },
+    "image": "/products/micronfilters19.png"
+  },
+  {
+    "id": 20,
+    "name": "30 INCH WOUND FILTER CARTRIDGE – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "WOUND FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "325",
+      "discounted": "199"
+    },
+    "image": "/products/micronfilters20.png"
+  },
+  {
+    "id": 21,
+    "name": "40 INCH WOUND FILTER CARTRIDGE – NZO",
+    "category": "MICRON FILTERS",
+    "subCategory": "WOUND FILTER CARTRIDGES",
+    "subCategory2": null,
+    "price": {
+      "original": "425",
+      "discounted": "270"
+    },
+    "image": "/products/micronfilters21.png"
+  },
+  {
+    "id": 22,
+    "name": "NO PRODUCTS",
+    "category": "MICRON FILTERS",
+    "subCategory": "DISC FILTERS",
+    "subCategory2": null,
+    "price": {
+      "original": null,
+      "discounted": null
+    },
+    "image": "/products/micronfilters22.png"
+  },
+  {
+    "id": 23,
+    "name": "844 FRP VESSEL - PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "844 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "3100",
+      "discounted": "2813"
+    },
+    "image": "/products/frpvessels1.jpg"
+  },
+  {
+    "id": 24,
+    "name": "1054 FRP VESSEL – ATLANTIC PLUS",
+    "category": "FRP VESSELS",
+    "subCategory": "1054 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "4045",
+      "discounted": "2990"
+    },
+    "image": "/products/frpvessels2.jpg"
+  },
+  {
+    "id": 25,
+    "name": "1054 FRP VESSEL – PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "1055 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "3700",
+      "discounted": "3300"
+    },
+    "image": "/products/frpvessels3.jpg"
+  },
+  {
+    "id": 26,
+    "name": "1248 FRP VESSEL – ATLANTIC PLUS",
+    "category": "FRP VESSELS",
+    "subCategory": "1248 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "3850",
+      "discounted": "3360"
+    },
+    "image": "/products/frpvessels4.jpg"
+  },
+  {
+    "id": 27,
+    "name": "1248 FRP VESSEL – PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "1249 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "4800",
+      "discounted": "3996"
+    },
+    "image": "/products/frpvessels5.jpg"
+  },
+  {
+    "id": 28,
+    "name": "1354 FRP VESSEL – ATLANTIC PLUS",
+    "category": "FRP VESSELS",
+    "subCategory": "1354 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "4120",
+      "discounted": "3800"
+    },
+    "image": "/products/frpvessels6.jpg"
+  },
+  {
+    "id": 29,
+    "name": "1354 FRP VESSEL – PENTAIR (NSF CERTIFIED)",
+    "category": "FRP VESSELS",
+    "subCategory": "1354 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "6200",
+      "discounted": "4400"
+    },
+    "image": "/products/frpvessels7.jpg"
+  },
+  {
+    "id": 30,
+    "name": "1465 FRP VESSEL – ATLANTIC PLUS",
+    "category": "FRP VESSELS",
+    "subCategory": "1465 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "6000",
+      "discounted": "5850"
+    },
+    "image": "/products/frpvessels8.jpg"
+  },
+  {
+    "id": 31,
+    "name": "1465 FRP VESSEL – PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "1465 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "8800",
+      "discounted": "7199"
+    },
+    "image": "/products/frpvessels9.jpg"
+  },
+  {
+    "id": 32,
+    "name": "1665 FRP VESSEL – ATLANTIC PLUS",
+    "category": "FRP VESSELS",
+    "subCategory": "1665 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "7800",
+      "discounted": "6230"
+    },
+    "image": "/products/frpvessels10.jpg"
+  },
+  {
+    "id": 33,
+    "name": "1665 FRP VESSEL – PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "1665 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "11000",
+      "discounted": "8999"
+    },
+    "image": "/products/frpvessels11.jpg"
+  },
+  {
+    "id": 34,
+    "name": "1665 TOP & BOTTOM OPENING FRP VESSEL – TATA STEEL",
+    "category": "FRP VESSELS",
+    "subCategory": "1665 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "11500",
+      "discounted": "9299"
+    },
+    "image": "/products/frpvessels12.jpg"
+  },
+  {
+    "id": 35,
+    "name": "1865 FRP VESSEL - PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "1865 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "28700",
+      "discounted": "22699"
+    },
+    "image": "/products/frpvessels13.jpg"
+  },
+  {
+    "id": 36,
+    "name": "2162 FRP VESSEL TOP & BOTTOM OPENING – ATLANTIC PLUS",
+    "category": "FRP VESSELS",
+    "subCategory": "2162 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "21000",
+      "discounted": "18240"
+    },
+    "image": "/products/frpvessels14.jpg"
+  },
+  {
+    "id": 37,
+    "name": "2162 FRP VESSEL TOP & BOTTOM OPENING – PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "2162 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "28900",
+      "discounted": "25449"
+    },
+    "image": "/products/frpvessels15.jpg"
+  },
+  {
+    "id": 38,
+    "name": "2472 FRP VESSEL TOP & BOTTOM OPENING – ATLANTIC PLUS",
+    "category": "FRP VESSELS",
+    "subCategory": "2472 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "24000",
+      "discounted": "19890"
+    },
+    "image": "/products/frpvessels16.jpg"
+  },
+  {
+    "id": 39,
+    "name": "2472 FRP VESSEL TOP & BOTTOM OPENING – PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "2472 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "34000",
+      "discounted": "29800"
+    },
+    "image": "/products/frpvessels17.jpg"
+  },
+  {
+    "id": 40,
+    "name": "3072 FRP VESSEL TOP & BOTTOM OPENING – ATLANTIC PLUS",
+    "category": "FRP VESSELS",
+    "subCategory": "3072 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "38000",
+      "discounted": "32850"
+    },
+    "image": "/products/frpvessels18.jpg"
+  },
+  {
+    "id": 41,
+    "name": "3072 FRP VESSEL TOP & BOTTOM OPENING – PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "3072 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "44099",
+      "discounted": "38999"
+    },
+    "image": "/products/frpvessels19.jpg"
+  },
+  {
+    "id": 42,
+    "name": "3672 FRP VESSEL TOP & BOTTOM OPENING – ATLANTIC PLUS",
+    "category": "FRP VESSELS",
+    "subCategory": "3672 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "41000",
+      "discounted": "37990"
+    },
+    "image": "/products/frpvessels20.jpg"
+  },
+  {
+    "id": 43,
+    "name": "3672 FRP VESSEL TOP & BOTTOM OPENING – PENTAIR",
+    "category": "FRP VESSELS",
+    "subCategory": "3672 FRP VESSEL",
+    "subCategory2": null,
+    "price": {
+      "original": "59899",
+      "discounted": "49799"
+    },
+    "image": "/products/frpvessels21.jpg"
+  },
+  {
+    "id": 44,
+    "name": "CHEMIRO 909 RO ANTISCALANT – ACURO – 25 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "4000",
+      "discounted": "3255"
+    },
+    "image": "/products/rochemicals1.png"
+  },
+  {
+    "id": 45,
+    "name": "CHEMIRO 909 RO ANTISCALANT – ACURO – 5 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "1200",
+      "discounted": "700"
+    },
+    "image": "/products/rochemicals2.png"
+  },
+  {
+    "id": 46,
+    "name": "CHEMIRO 909N NSF CERTIFIED FOOD GRADE RO ANTISCALANT – ACURO – 25 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "4800",
+      "discounted": "3675"
+    },
+    "image": "/products/rochemicals3.jpg"
+  },
+  {
+    "id": 47,
+    "name": "CHEMIRO 909N NSF CERTIFIED FOOD GRADE RO ANTISCALANT – ACURO – 5 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "1180",
+      "discounted": "799"
+    },
+    "image": "/products/rochemicals4.jpg"
+  },
+  {
+    "id": 48,
+    "name": "HIGH PH ANTISCALANT (RADIX 39) – ACURO – 25 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "7250",
+      "discounted": "6125"
+    },
+    "image": "/products/rochemicals5.jpg"
+  },
+  {
+    "id": 49,
+    "name": "HIGH PH ANTISCALANT (RADIX 39) – ACURO – 5 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "1680",
+      "discounted": "1295"
+    },
+    "image": "/products/rochemicals6.jpg"
+  },
+  {
+    "id": 50,
+    "name": "HIGH SILICA INHIBITION RO ANTISCALANT (RADIX 95) NSF – ACURO – 25 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "9800",
+      "discounted": "6930"
+    },
+    "image": "/products/rochemicals7.jpg"
+  },
+  {
+    "id": 51,
+    "name": "HIGH SILICA INHIBITION RO ANTISCALANT (RADIX 95) NSF – ACURO – 5 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "2100",
+      "discounted": "1435"
+    },
+    "image": "/products/rochemicals8.png"
+  },
+  {
+    "id": 52,
+    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 300 – 20 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "5700",
+      "discounted": "3680"
+    },
+    "image": "/products/rochemicals9.jpg"
+  },
+  {
+    "id": 53,
+    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 301 – 20 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "5700",
+      "discounted": "3680"
+    },
+    "image": "/products/rochemicals10.jpg"
+  },
+  {
+    "id": 54,
+    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 305 – 20 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "4400",
+      "discounted": "2720"
+    },
+    "image": "/products/rochemicals11.png"
+  },
+  {
+    "id": 55,
+    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 310 – 20 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "6700",
+      "discounted": "4800"
+    },
+    "image": "/products/rochemicals12.jpeg"
+  },
+  {
+    "id": 56,
+    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 320 – 20 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "7700",
+      "discounted": "5440"
+    },
+    "image": "/products/rochemicals13.png"
+  },
+  {
+    "id": 57,
+    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT – GOOD CHEMISTRY – 5 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO ANTISCALANT",
+    "subCategory2": null,
+    "price": {
+      "original": "1825",
+      "discounted": "899"
+    },
+    "image": "/products/rochemicals14.jpeg"
+  },
+  {
+    "id": 58,
+    "name": "NSF CERTIFIED FOOD GRADE RO ACIDIC CLEANER WT – ROC1600 – 20 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO CLEANING CHEMICALS",
+    "subCategory2": null,
+    "price": {
+      "original": "4400",
+      "discounted": "1680"
+    },
+    "image": "/products/rochemicals15.jpg"
+  },
+  {
+    "id": 59,
+    "name": "NSF CERTIFIED FOOD GRADE RO ALKALINE CLEANER WT – ROC1800 – 20 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO CLEANING CHEMICALS",
+    "subCategory2": null,
+    "price": {
+      "original": "5500",
+      "discounted": "2380"
+    },
+    "image": "/products/rochemicals16.jpg"
+  },
+  {
+    "id": 60,
+    "name": "NSF CERTIFIED FOOD GRADE RO BIOFOULING CLEANER WT – ROB900 – 20 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO CLEANING CHEMICALS",
+    "subCategory2": null,
+    "price": {
+      "original": "6700",
+      "discounted": "4800"
+    },
+    "image": "/products/rochemicals17.jpg"
+  },
+  {
+    "id": 61,
+    "name": "ROKLEEN 21 LOW PH RO MEMBRANE CLEANER – ACURO – 5 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO CLEANING CHEMICALS",
+    "subCategory2": null,
+    "price": {
+      "original": "1499",
+      "discounted": "1249"
+    },
+    "image": "/products/rochemicals18.jpg"
+  },
+  {
+    "id": 62,
+    "name": "ROKLEEN 27 HIGH PH RO MEMBRANE CLEANER – ACURO – 5 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "RO CLEANING CHEMICALS",
+    "subCategory2": null,
+    "price": {
+      "original": "1699",
+      "discounted": "1249"
+    },
+    "image": "/products/rochemicals19.jpg"
+  },
+  {
+    "id": 63,
+    "name": "PH BOOSTER FOR RO (RADIX P25) FOOD GRADE – ACURO – 5 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "pH BOOSTER",
+    "subCategory2": null,
+    "price": {
+      "original": "1220",
+      "discounted": "980"
+    },
+    "image": "/products/rochemicals20.jpg"
+  },
+  {
+    "id": 64,
+    "name": "PH BOOSTER FOR RO (RADIX P25) FOOD GRADE – ACURO – 25 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "pH BOOSTER",
+    "subCategory2": null,
+    "price": {
+      "original": "6200",
+      "discounted": "4900"
+    },
+    "image": "/products/rochemicals21.jpg"
+  },
+  {
+    "id": 65,
+    "name": "WATREAT – UDAAQ – PH BOOSTER WT-P200 NSF CERTIFIED FOOD GRADE – 20 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "pH BOOSTER",
+    "subCategory2": null,
+    "price": {
+      "original": "3600",
+      "discounted": "1920"
+    },
+    "image": "/products/rochemicals22.jpg"
+  },
+  {
+    "id": 66,
+    "name": "MINERAL BOOSTER FOR WATER – MINIPLUS – ACURO – 25 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "MINERAL ADDITIVES",
+    "subCategory2": null,
+    "price": {
+      "original": "6800",
+      "discounted": "5600"
+    },
+    "image": "/products/rochemicals23.jpg"
+  },
+  {
+    "id": 67,
+    "name": "MINERAL BOOSTER FOR WATER – MINIPLUS – ACURO – 5 KG",
+    "category": "RO CHEMICALS",
+    "subCategory": "MINERAL ADDITIVES",
+    "subCategory2": null,
+    "price": {
+      "original": "1630",
+      "discounted": "1380"
+    },
+    "image": "/products/rochemicals24.jpg"
+  },
+  {
+    "id": 68,
+    "name": "ACTIVATED CARBON 600 IV (25 KG)",
+    "category": "MEDIA",
+    "subCategory": "ACTIVATED CARBON",
+    "subCategory2": null,
+    "price": {
+      "original": "1200",
+      "discounted": "699"
+    },
+    "image": "/products/media1.jpg"
+  },
+  {
+    "id": 69,
+    "name": "COCONUT SHELL ACTIVATED CARBON 1100 IV – RADOCARB – G110 (25 KG)",
+    "category": "MEDIA",
+    "subCategory": "ACTIVATED CARBON",
+    "subCategory2": null,
+    "price": {
+      "original": "13000",
+      "discounted": "9800"
+    },
+    "image": "/products/media2.jpg"
+  },
+  {
+    "id": 70,
+    "name": "COCONUT SHELL ACTIVATED CARBON 1100 IV (25 KG) VIRGIN GRADE",
+    "category": "MEDIA",
+    "subCategory": "ACTIVATED CARBON",
+    "subCategory2": null,
+    "price": {
+      "original": "10200",
+      "discounted": "9600"
+    },
+    "image": "/products/media3.jpg"
+  },
+  {
+    "id": 71,
+    "name": "500 IV ACTIVATED CARBON – 25 KG BAG",
+    "category": "MEDIA",
+    "subCategory": "ACTIVATED CARBON",
+    "subCategory2": null,
+    "price": {
+      "original": "1450",
+      "discounted": "700"
+    },
+    "image": "/products/media4.jpg"
+  },
+  {
+    "id": 72,
+    "name": "900 IV GRANULAR ACTIVATED CARBON – 25 KG BAG",
+    "category": "MEDIA",
+    "subCategory": "ACTIVATED CARBON",
+    "subCategory2": null,
+    "price": {
+      "original": "1800",
+      "discounted": "1369"
+    },
+    "image": "/products/media5.jpg"
+  },
+  {
+    "id": 73,
+    "name": "ANTHRACITE FILTER MEDIA (40 KG) – ACURO",
+    "category": "MEDIA",
+    "subCategory": "FILTER MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "1800",
+      "discounted": "1368"
+    },
+    "image": "/products/media6.jpg"
+  },
+  {
+    "id": 74,
+    "name": "GLASS FILTRATION MEDIA – EMAUX (25 KG)",
+    "category": "MEDIA",
+    "subCategory": "FILTER MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "4350",
+      "discounted": "3150"
+    },
+    "image": "/products/media7.jpg"
+  },
+  {
+    "id": 75,
+    "name": "ASHAION C-250 NA WATER SOFTENING CATION EXCHANGE RESIN (50 LITRES)",
+    "category": "MEDIA",
+    "subCategory": "SOFTENER RESINS",
+    "subCategory2": null,
+    "price": {
+      "original": "7500",
+      "discounted": "6825"
+    },
+    "image": "/products/media8.jpg"
+  },
+  {
+    "id": 76,
+    "name": "INDION 225 NA – ION EXCHANGE RESIN (50 LITRES)",
+    "category": "MEDIA",
+    "subCategory": "SOFTENER RESINS",
+    "subCategory2": null,
+    "price": {
+      "original": "9800",
+      "discounted": "8900"
+    },
+    "image": "/products/media9.jpg"
+  },
+  {
+    "id": 77,
+    "name": "NZO – 001 X 8 – WATER SOFTENER RESIN (25 LITRES)",
+    "category": "MEDIA",
+    "subCategory": "SOFTENER RESINS",
+    "subCategory2": null,
+    "price": {
+      "original": "3800",
+      "discounted": "2890"
+    },
+    "image": "/products/media10.jpg"
+  },
+  {
+    "id": 78,
+    "name": "RADON C70 WATER SOFTENING CATION EXCHANGE RESIN (25 LITRES)",
+    "category": "MEDIA",
+    "subCategory": "SOFTENER RESINS",
+    "subCategory2": null,
+    "price": {
+      "original": "4200",
+      "discounted": "3850"
+    },
+    "image": "/products/media11.jpg"
+  },
+  {
+    "id": 79,
+    "name": "THERMAX TULSION T-42 NA WATER SOFTENING CATION EXCHANGE RESIN (50 LITRES)",
+    "category": "MEDIA",
+    "subCategory": "SOFTENER RESINS",
+    "subCategory2": null,
+    "price": {
+      "original": "9000",
+      "discounted": "6999"
+    },
+    "image": "/products/media12.jpg"
+  },
+  {
+    "id": 80,
+    "name": "RADON A14 ANION EXCHANGE (DM) RESIN (25 LITRE)",
+    "category": "MEDIA",
+    "subCategory": "ANION/CATION (DM) RESIN",
+    "subCategory2": null,
+    "price": {
+      "original": "6142",
+      "discounted": "5469"
+    },
+    "image": "/products/media13.jpg"
+  },
+  {
+    "id": 81,
+    "name": "RADON C75H CATION EXCHANGE (DM) RESIN (25 LITRE)",
+    "category": "MEDIA",
+    "subCategory": "ANION/CATION (DM) RESIN",
+    "subCategory2": null,
+    "price": {
+      "original": "2970",
+      "discounted": "2649"
+    },
+    "image": "/products/media14.jpg"
+  },
+  {
+    "id": 82,
+    "name": "BIRM – IRON REMOVAL MEDIA (28.3 LITRES)",
+    "category": "MEDIA",
+    "subCategory": "IRON / FLUORIDE REMOVAL MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "8215",
+      "discounted": "7499"
+    },
+    "image": "/products/media15.jpg"
+  },
+  {
+    "id": 83,
+    "name": "FLUORIDE REMOVAL MEDIA – ACTAL-DF (25 KG) – ACURO",
+    "category": "MEDIA",
+    "subCategory": "IRON / FLUORIDE REMOVAL MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "6200",
+      "discounted": "4725"
+    },
+    "image": "/products/media16.jpg"
+  },
+  {
+    "id": 84,
+    "name": "MANGANESE GREENSAND (MNO2) – IRON REMOVAL MEDIA (25 KG)",
+    "category": "MEDIA",
+    "subCategory": "IRON / FLUORIDE REMOVAL MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "1600",
+      "discounted": "1249"
+    },
+    "image": "/products/media17.jpg"
+  },
+  {
+    "id": 85,
+    "name": "EDOSE DOSING PUMP – INITIATIVE ENGINEERING",
+    "category": "DOSING PUMPS",
+    "subCategory": "IRON / FLUORIDE REMOVAL MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "6500 – 7100",
+      "discounted": "4999 – 5999"
+    },
+    "image": "/products/dosingpumps1.jpg"
+  },
+  {
+    "id": 86,
+    "name": "EDOSE NEO DOSING PUMP",
+    "category": "DOSING PUMPS",
+    "subCategory": "IRON / FLUORIDE REMOVAL MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "7500 – 9000",
+      "discounted": "5780 – 7430"
+    },
+    "image": "/products/dosingpumps2.jpg"
+  },
+  {
+    "id": 87,
+    "name": "EDOSE NEO DOSING PUMP – PVDF – 10 LPH",
+    "category": "DOSING PUMPS",
+    "subCategory": "IRON / FLUORIDE REMOVAL MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "14800",
+      "discounted": "10800"
+    },
+    "image": "/products/dosingpumps3.jpg"
+  },
+  {
+    "id": 88,
+    "name": "EDOSE NEO DOSING PUMP – PVDF – 6 LPH",
+    "category": "DOSING PUMPS",
+    "subCategory": "IRON / FLUORIDE REMOVAL MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "10200",
+      "discounted": "8900"
+    },
+    "image": "/products/dosingpumps4.jpg"
+  },
+  {
+    "id": 89,
+    "name": "EDOSE NEO DOSING PUMP (4–20 MA)",
+    "category": "DOSING PUMPS",
+    "subCategory": "IRON / FLUORIDE REMOVAL MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "9800",
+      "discounted": "7200"
+    },
+    "image": "/products/dosingpumps5.jpg"
+  },
+  {
+    "id": 90,
+    "name": "UKL DOSING PUMP",
+    "category": "DOSING PUMPS",
+    "subCategory": "IRON / FLUORIDE REMOVAL MEDIA",
+    "subCategory2": null,
+    "price": {
+      "original": "5340",
+      "discounted": "4420"
+    },
+    "image": "/products/dosingpumps6.jpg"
+  },
+  {
+    "id": 91,
+    "name": "4040 PRESSURE TUBE [MEMBRANE HOUSING] – UKL",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "MEMBRANE HOUSINGS",
+    "subCategory2": "4040 PRESSURE TUBE FOR RO MEMBRANE",
+    "price": {
+      "original": "3200",
+      "discounted": "2490"
+    },
+    "image": "/products/membranes-and-housings1.jpg"
+  },
+  {
+    "id": 92,
+    "name": "4040 PRESSURE TUBE SS [MEMBRANE HOUSING]",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "MEMBRANE HOUSINGS",
+    "subCategory2": "4040 PRESSURE TUBE FOR RO MEMBRANE",
+    "price": {
+      "original": "5000",
+      "discounted": "3080"
+    },
+    "image": "/products/membranes-and-housings2.jpg"
+  },
+  {
+    "id": 93,
+    "name": "4080 PRESSURE TUBE [MEMBRANE HOUSING] – UKL",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "MEMBRANE HOUSINGS",
+    "subCategory2": "4080 PRESSURE TUBE FOR RO MEMBRANE",
+    "price": {
+      "original": "6000",
+      "discounted": "4800"
+    },
+    "image": "/products/membranes-and-housings3.jpg"
+  },
+  {
+    "id": 94,
+    "name": "4080 PRESSURE TUBE SS 304 [MEMBRANE HOUSING]",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "MEMBRANE HOUSINGS",
+    "subCategory2": "4080 PRESSURE TUBE FOR RO MEMBRANE",
+    "price": {
+      "original": "7000",
+      "discounted": "4550"
+    },
+    "image": "/products/membranes-and-housings4.jpg"
+  },
+  {
+    "id": 95,
+    "name": "8040 PRESSURE TUBE [MEMBRANE HOUSING] – UKL",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "MEMBRANE HOUSINGS",
+    "subCategory2": "8040 PRESSURE TUBE FOR RO MEMBRANE",
+    "price": {
+      "original": "14000",
+      "discounted": "11800"
+    },
+    "image": "/products/membranes-and-housings5.jpg"
+  },
+  {
+    "id": 96,
+    "name": "8080 PRESSURE TUBE [MEMBRANE HOUSING] - UKL",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "MEMBRANE HOUSINGS",
+    "subCategory2": "8080 PRESSURE TUBE FOR RO MEMBRANE",
+    "price": {
+      "original": null,
+      "discounted": "16000"
+    },
+    "image": "/products/membranes-and-housings6.jpg"
+  },
+  {
+    "id": 97,
+    "name": "RO MEMBRANE 4040 – DUPONT – TAPTEC LC HF",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "4040 RO MEMBRANES",
+    "price": {
+      "original": "12000",
+      "discounted": "8599"
+    },
+    "image": "/products/membranes-and-housings7.jpg"
+  },
+  {
+    "id": 98,
+    "name": "RO MEMBRANE 4040 DOW (DUPONT) BW-30 FILMTEC",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "4040 RO MEMBRANES",
+    "price": {
+      "original": "18000",
+      "discounted": "12555"
+    },
+    "image": "/products/membranes-and-housings8.jpg"
+  },
+  {
+    "id": 99,
+    "name": "RO MEMBRANE E-MEM – BW 4040",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "4040 RO MEMBRANES",
+    "price": {
+      "original": "10800",
+      "discounted": "7420"
+    },
+    "image": "/products/membranes-and-housings9.jpg"
+  },
+  {
+    "id": 100,
+    "name": "RO MEMBRANE LG BW 4040 R",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "4040 RO MEMBRANES",
+    "price": {
+      "original": "15800",
+      "discounted": "10799"
+    },
+    "image": "/products/membranes-and-housings10.jpg"
+  },
+  {
+    "id": 101,
+    "name": "RO MEMBRANE GE 4040 AG (SUEZ WATER) – VEOLIA",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "4040 RO MEMBRANES",
+    "price": {
+      "original": "12100",
+      "discounted": "10790"
+    },
+    "image": "/products/membranes-and-housings11.jpg"
+  },
+  {
+    "id": 102,
+    "name": "RO MEMBRANE E-MEM 8040 – BW 365",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "8040 RO MEMBRANES",
+    "price": {
+      "original": "38600",
+      "discounted": "32340"
+    },
+    "image": "/products/membranes-and-housings12.jpg"
+  },
+  {
+    "id": 103,
+    "name": "RO MEMBRANE DOW (DUPONT) FILMTEC 8040 BW30 – 365",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "8040 RO MEMBRANES",
+    "price": {
+      "original": "40500",
+      "discounted": "36600"
+    },
+    "image": "/products/membranes-and-housings13.jpg"
+  },
+  {
+    "id": 104,
+    "name": "RO MEMBRANE DOW (DUPONT) FILMTEC 8040 BW30 – 400",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "8040 RO MEMBRANES",
+    "price": {
+      "original": "48000",
+      "discounted": "38525"
+    },
+    "image": "/products/membranes-and-housings14.jpg"
+  },
+  {
+    "id": 105,
+    "name": "RO MEMBRANE GE 8040 AG 365 (SUEZ WATER)",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "8040 RO MEMBRANES",
+    "price": {
+      "original": "38000",
+      "discounted": "28800"
+    },
+    "image": "/products/membranes-and-housings15.jpg"
+  },
+  {
+    "id": 106,
+    "name": "RO MEMBRANE GE 8040 AG 400 (SUEZ WATER)",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "RO MEMBRANE",
+    "subCategory2": "8040 RO MEMBRANES",
+    "price": {
+      "original": "34000",
+      "discounted": "30980"
+    },
+    "image": "/products/membranes-and-housings16.jpg"
+  },
+  {
+    "id": 107,
+    "name": "4 INCH END CAP FOR MEMBRANE HOUSING - UKL",
+    "category": "MEMBRANES & HOUSINGS",
+    "subCategory": "MEMBRANE HOUSING SPACE",
+    "subCategory2": null,
+    "price": {
+      "original": "800",
+      "discounted": "585"
+    },
+    "image": "/products/membranes-and-housings17.jpg"
+  },
+  {
+    "id": 108,
+    "name": "25 NB AUTOMATIC MULTIPORT VALVE SIDE MOUNT FILTER (EVOLVE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "AUTO MULTIPORT VALVES",
+    "subCategory2": null,
+    "price": {
+      "original": "11000",
+      "discounted": "8800"
+    },
+    "image": "/products/multiportvalves1.jpg"
+  },
+  {
+    "id": 109,
+    "name": "25 NB AUTOMATIC MULTIPORT VALVE SIDE MOUNT SOFTENER (EVOLVE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "AUTO MULTIPORT VALVES",
+    "subCategory2": null,
+    "price": {
+      "original": "12000",
+      "discounted": "9800"
+    },
+    "image": "/products/multiportvalves2.jpg"
+  },
+  {
+    "id": 110,
+    "name": "25 NB AUTOMATIC MULTIPORT VALVE TOP MOUNT FILTER (EVOLVE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "AUTO MULTIPORT VALVES",
+    "subCategory2": null,
+    "price": {
+      "original": "10350",
+      "discounted": "9188"
+    },
+    "image": "/products/multiportvalves3.jpg"
+  },
+  {
+    "id": 111,
+    "name": "25 NB AUTOMATIC MULTIPORT VALVE TOP MOUNT SOFTENER (EVOLVE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "AUTO MULTIPORT VALVES",
+    "subCategory2": null,
+    "price": {
+      "original": "8400",
+      "discounted": "7800"
+    },
+    "image": "/products/multiportvalves4.jpg"
+  },
+  {
+    "id": 112,
+    "name": "40 NB AUTOMATIC MULTIPORT VALVE SIDE MOUNT FILTER (EVOLVE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "AUTO MULTIPORT VALVES",
+    "subCategory2": null,
+    "price": {
+      "original": "16800",
+      "discounted": "14000"
+    },
+    "image": "/products/multiportvalves5.jpg"
+  },
+  {
+    "id": 113,
+    "name": "40 NB AUTOMATIC MULTIPORT VALVE SIDE MOUNT SOFTENER (EVOLVE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "AUTO MULTIPORT VALVES",
+    "subCategory2": null,
+    "price": {
+      "original": "17800",
+      "discounted": "14200"
+    },
+    "image": "/products/multiportvalves6.jpg"
+  },
+  {
+    "id": 114,
+    "name": "40 NB AUTOMATIC MULTIPORT VALVE TOP MOUNT FILTER (EVOLVE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "AUTO MULTIPORT VALVES",
+    "subCategory2": null,
+    "price": {
+      "original": "16800",
+      "discounted": "14000"
+    },
+    "image": "/products/multiportvalves7.jpg"
+  },
+  {
+    "id": 115,
+    "name": "40 NB AUTOMATIC MULTIPORT VALVE TOP MOUNT SOFTENER (EVOLVE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "AUTO MULTIPORT VALVES",
+    "subCategory2": null,
+    "price": {
+      "original": "17800",
+      "discounted": "14200"
+    },
+    "image": "/products/multiportvalves8.jpg"
+  },
+  {
+    "id": 116,
+    "name": "CONTROL PANEL FOR AUTO MPV – ASTERO 1 MP (2HP SINGLE PHASE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "CONTROL PANEL FOR AUTO MPV",
+    "subCategory2": null,
+    "price": {
+      "original": "4800",
+      "discounted": "3800"
+    },
+    "image": "/products/multiportvalves9.jpg"
+  },
+  {
+    "id": 117,
+    "name": "CONTROL PANEL FOR AUTO MPV – ASTERO 3 MP (3HP THREE PHASE)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "CONTROL PANEL FOR AUTO MPV",
+    "subCategory2": null,
+    "price": {
+      "original": "5200",
+      "discounted": "4300"
+    },
+    "image": "/products/multiportvalves10.jpg"
+  },
+  {
+    "id": 118,
+    "name": "CONTROL PANEL FOR AUTO MPV – ASTERO NXT AUTO VALVE 11",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "CONTROL PANEL FOR AUTO MPV",
+    "subCategory2": null,
+    "price": {
+      "original": "8500",
+      "discounted": "7800"
+    },
+    "image": "/products/multiportvalves11.jpg"
+  },
+  {
+    "id": 119,
+    "name": "CONTROL PANEL FOR AUTO MPV – ASTERO NXT AUTO VALVE 33",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "CONTROL PANEL FOR AUTO MPV",
+    "subCategory2": null,
+    "price": {
+      "original": "9000",
+      "discounted": "7350"
+    },
+    "image": "/products/multiportvalves12.jpg"
+  },
+  {
+    "id": 120,
+    "name": "CONTROL PANEL FOR AUTO MPV – ASTERO SUBMERSIBLE",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "CONTROL PANEL FOR AUTO MPV",
+    "subCategory2": null,
+    "price": {
+      "original": "5400",
+      "discounted": "4890"
+    },
+    "image": "/products/multiportvalves13.jpg"
+  },
+  {
+    "id": 121,
+    "name": "20 NB FILTER MULTIPORT VALVE (MPV) – UKL",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - FILTER",
+    "subCategory2": "20 NB MPV - FILTER",
+    "price": {
+      "original": "1200",
+      "discounted": "1050"
+    },
+    "image": "/products/multiportvalves14.jpg"
+  },
+  {
+    "id": 122,
+    "name": "TOP MOUNT TOP FACING FILTER 25 NB MPV (0225TF) – INITIATIVE ENGINEERING",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - FILTER",
+    "subCategory2": "20 NB MPV - FILTER",
+    "price": {
+      "original": "1457",
+      "discounted": "1232"
+    },
+    "image": "/products/multiportvalves15.jpg"
+  },
+  {
+    "id": 123,
+    "name": "TOP MOUNT FRONT FACING FILTER 25 NB MPV (0525FF) – INITIATIVE ENGG.",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - FILTER",
+    "subCategory2": "25 NB MPV - FILTER",
+    "price": {
+      "original": "2100",
+      "discounted": "1780"
+    },
+    "image": "/products/multiportvalves16.jpg"
+  },
+  {
+    "id": 124,
+    "name": "25 NB TOP MOUNT FILTER MULTIPORT VALVE (MPV) – UKL",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - FILTER",
+    "subCategory2": "25 NB MPV - FILTER",
+    "price": {
+      "original": "1800",
+      "discounted": "1380"
+    },
+    "image": "/products/multiportvalves17.jpg"
+  },
+  {
+    "id": 125,
+    "name": "TOP MOUNT TOP FACING FILTER 25 NB MPV (0225TF) – INITIATIVE ENGINEERING",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - FILTER",
+    "subCategory2": "25 NB MPV - FILTER",
+    "price": {
+      "original": "1457",
+      "discounted": "1232"
+    },
+    "image": "/products/multiportvalves18.jpg"
+  },
+  {
+    "id": 126,
+    "name": "40 NB SIDE MOUNT FILTER MULTIPORT VALVE (MPV) – UKL",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - FILTER",
+    "subCategory2": "40 NB MPV - FILTER",
+    "price": {
+      "original": "2530",
+      "discounted": "2030"
+    },
+    "image": "/products/multiportvalves19.jpg"
+  },
+  {
+    "id": 127,
+    "name": "40 NB TOP MOUNT FILTER MULTIPORT VALVE (MPV) – UKL",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - FILTER",
+    "subCategory2": "40 NB MPV - FILTER",
+    "price": {
+      "original": "2400",
+      "discounted": "1890"
+    },
+    "image": "/products/multiportvalves20.jpg"
+  },
+  {
+    "id": 128,
+    "name": "SIDE MOUNT FRONT FACING 40 NB FILTER MPV (1240FF) – INITIATIVE ENGINEERING",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - FILTER",
+    "subCategory2": "40 NB MPV - FILTER",
+    "price": {
+      "original": "2900",
+      "discounted": "2535"
+    },
+    "image": "/products/multiportvalves21.jpg"
+  },
+  {
+    "id": 129,
+    "name": "TOP MOUNT FRONT FACING 40 NB FILTER MPV (TM40FF) – INITIATIVE ENGINEERING",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - FILTER",
+    "subCategory2": "40 NB MPV - FILTER",
+    "price": {
+      "original": "2900",
+      "discounted": "2496"
+    },
+    "image": "/products/multiportvalves22.jpg"
+  },
+  {
+    "id": 130,
+    "name": "20 NB SOFTENER MULTIPORT VALVE (MPV) – UKL",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "20 NB MPV - SOFTENER",
+    "price": {
+      "original": "950",
+      "discounted": "850"
+    },
+    "image": "/products/multiportvalves23.jpg"
+  },
+  {
+    "id": 131,
+    "name": "TOP MOUNT TOP FACING SOFTENER 25 NB MPV (0225TF) – INITIATIVE ENGINEERING",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "20 NB MPV - SOFTENER",
+    "price": {
+      "original": "1800",
+      "discounted": "1460"
+    },
+    "image": "/products/multiportvalves24.jpg"
+  },
+  {
+    "id": 132,
+    "name": "25 NB TOP MOUNT SOFTENER MULTIPORT VALVE (MPV) – UKL",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "25 NB MPV - SOFTENER",
+    "price": {
+      "original": "2400",
+      "discounted": "1750"
+    },
+    "image": "/products/multiportvalves25.jpg"
+  },
+  {
+    "id": 133,
+    "name": "TOP MOUNT TOP FACING SOFTENER 25 NB MPV (0225TF) – INITIATIVE ENGINEERING",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "25 NB MPV - SOFTENER",
+    "price": {
+      "original": "1800",
+      "discounted": "1460"
+    },
+    "image": "/products/multiportvalves26.jpg"
+  },
+  {
+    "id": 134,
+    "name": "TOP MOUNT FRONT FACING SOFTENER 25 NB MPV (0525FF) – INITIATIVE ENGINEERING",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "25 NB MPV - SOFTENER",
+    "price": {
+      "original": "2800",
+      "discounted": "2130"
+    },
+    "image": "/products/multiportvalves27.jpg"
+  },
+  {
+    "id": 135,
+    "name": "40 NB SIDE MOUNT SOFTENER MULTIPORT VALVE (MPV) – UKL",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "40 NB MPV - SOFTENER",
+    "price": {
+      "original": "2400",
+      "discounted": "2100"
+    },
+    "image": "/products/multiportvalves28.jpg"
+  },
+  {
+    "id": 136,
+    "name": "40 NB TOP MOUNT SOFTENER MULTIPORT VALVE (MPV) – UKL",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "40 NB MPV - SOFTENER",
+    "price": {
+      "original": "3050",
+      "discounted": "2275"
+    },
+    "image": "/products/multiportvalves29.jpg"
+  },
+  {
+    "id": 137,
+    "name": "SIDE MOUNT FRONT FACING 40 NB SOFTENER MPV (1240FF) – INITIATIVE ENGINEERING",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "40 NB MPV - SOFTENER",
+    "price": {
+      "original": "3400",
+      "discounted": "2820"
+    },
+    "image": "/products/multiportvalves30.jpg"
+  },
+  {
+    "id": 138,
+    "name": "TOP MOUNT FRONT FACING 40 NB SOFTENER MPV (TM40FF) – INITIATIVE ENGINEERING",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "40 NB MPV - SOFTENER",
+    "price": {
+      "original": "3500",
+      "discounted": "2769"
+    },
+    "image": "/products/multiportvalves31.jpg"
+  },
+  {
+    "id": 139,
+    "name": "50 NB SIDE MOUNT SOFTENER MULTIPORT VALVE (MPV) – UKL",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVES - SOFTENER",
+    "subCategory2": "50 NB MPV - SOFTENER",
+    "price": {
+      "original": "5800",
+      "discounted": "5400"
+    },
+    "image": "/products/multiportvalves32.jpg"
+  },
+  {
+    "id": 140,
+    "name": "1 INCH AIR RELEASE VALVE (ARV) [VACUUM BREAKER] – RM",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVE ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "550",
+      "discounted": "350"
+    },
+    "image": "/products/multiportvalves33.jpg"
+  },
+  {
+    "id": 141,
+    "name": "REDUCER ADAPTER 4\" X 2.5\" FOR VESSEL & MPV",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVE ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "650",
+      "discounted": "480"
+    },
+    "image": "/products/multiportvalves34.jpg"
+  },
+  {
+    "id": 142,
+    "name": "BRINE DIRECTOR FOR 20 NB & 25 NB MPV",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "MULTIPORT VALVE ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "3600",
+      "discounted": "2475"
+    },
+    "image": "/products/multiportvalves35.jpg"
+  },
+  {
+    "id": 143,
+    "name": "40 NB DISTRIBUTION SYSTEM (12 M3/HOUR) (TOP & BOTTOM SET)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "DISTRIBUTION SYSTEMS",
+    "subCategory2": null,
+    "price": {
+      "original": "3136",
+      "discounted": "2240"
+    },
+    "image": "/products/multiportvalves36.jpg"
+  },
+  {
+    "id": 144,
+    "name": "40 NB DISTRIBUTION SYSTEM (6 M3/HOUR) (TOP & BOTTOM SET)",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "DISTRIBUTION SYSTEMS",
+    "subCategory2": null,
+    "price": {
+      "original": "1950",
+      "discounted": "1490"
+    },
+    "image": "/products/multiportvalves37.jpg"
+  },
+  {
+    "id": 145,
+    "name": "50 NB DISTRIBUTION SYSTEM – HUB WITH STRAINER",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "DISTRIBUTION SYSTEMS",
+    "subCategory2": null,
+    "price": {
+      "original": "2100",
+      "discounted": "1450"
+    },
+    "image": "/products/multiportvalves38.jpg"
+  },
+  {
+    "id": 146,
+    "name": "50 NB DISTRIBUTION SYSTEM (STRAINER) – HUB WITH LATERALS",
+    "category": "MULTIPORT VALVES",
+    "subCategory": "DISTRIBUTION SYSTEMS",
+    "subCategory2": null,
+    "price": {
+      "original": "2800",
+      "discounted": "2420"
+    },
+    "image": "/products/multiportvalves39.jpg"
+  },
+  {
+    "id": 147,
+    "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 11 NXT (EMBARK)",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
+    "price": {
+      "original": "9950",
+      "discounted": "8110"
+    },
+    "image": "/products/instruments-and-panels1.jpg"
+  },
+  {
+    "id": 148,
+    "name": "AUTOMATIC RO CONTROL PANEL – SIMPLY ASTERO 11 (EMBARK)",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
+    "price": {
+      "original": "7990",
+      "discounted": "6500"
+    },
+    "image": "/products/instruments-and-panels2.jpg"
+  },
+  {
+    "id": 149,
+    "name": "ACCORD PANEL BOARD AP GSM 1:1 – RO CONTROL PANEL",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
+    "price": {
+      "original": "9800",
+      "discounted": "8918"
+    },
+    "image": "/products/instruments-and-panels3.jpg"
+  },
+  {
+    "id": 150,
+    "name": "AP LED 1:1 NON TDS – RO CONTROL PANEL – ACCORD [APDP]",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
+    "price": {
+      "original": "3800",
+      "discounted": "3122"
+    },
+    "image": "/products/instruments-and-panels4.jpg"
+  },
+  {
+    "id": 151,
+    "name": "AP SMART LED 1:1 TDS – RO CONTROL PANEL – ACCORD [APDP]",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
+    "price": {
+      "original": "4800",
+      "discounted": "3486"
+    },
+    "image": "/products/instruments-and-panels5.jpg"
+  },
+  {
+    "id": 152,
+    "name": "AUTOMATIC RO CONTROL PANEL 11 – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
+    "price": {
+      "original": "8811",
+      "discounted": "5100"
+    },
+    "image": "/products/instruments-and-panels6.jpg"
+  },
+  {
+    "id": 153,
+    "name": "ACCORD PANEL BOARD AP 1:1 TDS – RO CONTROL PANEL",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
+    "price": {
+      "original": "7300",
+      "discounted": "5614"
+    },
+    "image": "/products/instruments-and-panels7.jpg"
+  },
+  {
+    "id": 154,
+    "name": "AUTOMATIC RO CONTROL PANEL 11 E WITH GSM – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
+    "price": {
+      "original": "16678",
+      "discounted": "9400"
+    },
+    "image": "/products/instruments-and-panels8.jpg"
+  },
+  {
+    "id": 155,
+    "name": "AUTOMATIC RO CONTROL PANEL ECO 11 – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
+    "price": {
+      "original": "5140",
+      "discounted": "3200"
+    },
+    "image": "/products/instruments-and-panels9.jpg"
+  },
+  {
+    "id": 156,
+    "name": "ACCORD PANEL BOARD AP 1:3 TDS – RO CONTROL PANEL",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "9300",
+      "discounted": "7574"
+    },
+    "image": "/products/instruments-and-panels10.jpg"
+  },
+  {
+    "id": 157,
+    "name": "ACCORD PANEL BOARD AP GSM 1:3 – RO CONTROL PANEL",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "13000",
+      "discounted": "10542"
+    },
+    "image": "/products/instruments-and-panels11.jpg"
+  },
+  {
+    "id": 158,
+    "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 13 NXT",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "11000",
+      "discounted": "8882"
+    },
+    "image": "/products/instruments-and-panels12.jpg"
+  },
+  {
+    "id": 159,
+    "name": "AUTOMATIC RO CONTROL PANEL – SIMPLY ASTERO 13 (EMBARK)",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "8500",
+      "discounted": "7200"
+    },
+    "image": "/products/instruments-and-panels13.jpg"
+  },
+  {
+    "id": 160,
+    "name": "AUTOMATIC RO CONTROL PANEL 13 – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "9913",
+      "discounted": "6200"
+    },
+    "image": "/products/instruments-and-panels14.jpg"
+  },
+  {
+    "id": 161,
+    "name": "AUTOMATIC RO CONTROL PANEL 13 E WITH GSM – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "17780",
+      "discounted": "10100"
+    },
+    "image": "/products/instruments-and-panels15.jpg"
+  },
+  {
+    "id": 162,
+    "name": "ACCORD PANEL BOARD AP 3:3 TDS – RO CONTROL PANEL",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "10050",
+      "discounted": "8470"
+    },
+    "image": "/products/instruments-and-panels16.jpg"
+  },
+  {
+    "id": 163,
+    "name": "ACCORD PANEL BOARD AP GSM 3:3 – RO CONTROL PANEL",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "13000",
+      "discounted": "11438"
+    },
+    "image": "/products/instruments-and-panels17.jpg"
+  },
+  {
+    "id": 164,
+    "name": "AUTOMATIC RO CONTROL PANEL – SIMPLY ASTERO 33 (EMBARK)",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "9936",
+      "discounted": "8280"
+    },
+    "image": "/products/instruments-and-panels18.jpg"
+  },
+  {
+    "id": 165,
+    "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 33 NXT",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "12000",
+      "discounted": "9990"
+    },
+    "image": "/products/instruments-and-panels19.jpg"
+  },
+  {
+    "id": 166,
+    "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 33 NXT [10 HP]",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "12800",
+      "discounted": "11400"
+    },
+    "image": "/products/instruments-and-panels20.jpg"
+  },
+  {
+    "id": 167,
+    "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 33 NXT [7.5 HP]",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "12800",
+      "discounted": "10900"
+    },
+    "image": "/products/instruments-and-panels21.jpg"
+  },
+  {
+    "id": 168,
+    "name": "AUTOMATIC RO CONTROL PANEL 33 – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "11696",
+      "discounted": "7200"
+    },
+    "image": "/products/instruments-and-panels22.jpg"
+  },
+  {
+    "id": 169,
+    "name": "AUTOMATIC RO CONTROL PANEL 33 E WITH GSM – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
+    "price": {
+      "original": "19563",
+      "discounted": "16700"
+    },
+    "image": "/products/instruments-and-panels23.jpg"
+  },
+  {
+    "id": 170,
+    "name": "ACCORD PANEL BOARD AP GSM 1:1 – RO CONTROL PANEL",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
+    "price": {
+      "original": "9800",
+      "discounted": "8918"
+    },
+    "image": "/products/instruments-and-panels24.jpg"
+  },
+  {
+    "id": 171,
+    "name": "ACCORD PANEL BOARD AP GSM 1:3 – RO CONTROL PANEL",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
+    "price": {
+      "original": "13000",
+      "discounted": "10542"
+    },
+    "image": "/products/instruments-and-panels25.jpg"
+  },
+  {
+    "id": 172,
+    "name": "AUTOMATIC RO CONTROL PANEL 11 E WITH GSM – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
+    "price": {
+      "original": "16678",
+      "discounted": "9400"
+    },
+    "image": "/products/instruments-and-panels26.jpg"
+  },
+  {
+    "id": 173,
+    "name": "AUTOMATIC RO CONTROL PANEL 13 E WITH GSM – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
+    "price": {
+      "original": "17780",
+      "discounted": "10100"
+    },
+    "image": "/products/instruments-and-panels27.jpg"
+  },
+  {
+    "id": 174,
+    "name": "AUTOMATIC RO CONTROL PANEL 33 E WITH GSM – RO CON",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "RO CONTROL PANEL",
+    "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
+    "price": {
+      "original": "19563",
+      "discounted": "16700"
+    },
+    "image": "/products/instruments-and-panels28.jpg"
+  },
+  {
+    "id": 175,
+    "name": "0 TO 21 KG/CM2 (300 PSI) BACK CONNECTION PRESSURE GAUGE – NZO",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE GAUGES",
+    "subCategory2": "BACK CONNECTION [PANEL MOUNTES] PRESSURE GAUGE",
+    "price": {
+      "original": "1200",
+      "discounted": "550"
+    },
+    "image": "/products/instruments-and-panels29.jpg"
+  },
+  {
+    "id": 176,
+    "name": "0 TO 21 KG/CM2 BACK CONNECTION PRESSURE GAUGE",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE GAUGES",
+    "subCategory2": "BACK CONNECTION [PANEL MOUNTES] PRESSURE GAUGE",
+    "price": {
+      "original": "800",
+      "discounted": "350"
+    },
+    "image": "/products/instruments-and-panels30.jpg"
+  },
+  {
+    "id": 177,
+    "name": "0 TO 7 KG/CM2 (100 PSI) BACK CONNECTION PRESSURE GAUGE – NZO",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE GAUGES",
+    "subCategory2": "BACK CONNECTION [PANEL MOUNTES] PRESSURE GAUGE",
+    "price": {
+      "original": "1200",
+      "discounted": "550"
+    },
+    "image": "/products/instruments-and-panels31.jpg"
+  },
+  {
+    "id": 178,
+    "name": "0 TO 7 KG/CM2 BACK CONNECTION PRESSURE GAUGE",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE GAUGES",
+    "subCategory2": "BACK CONNECTION [PANEL MOUNTES] PRESSURE GAUGE",
+    "price": {
+      "original": "800",
+      "discounted": "350"
+    },
+    "image": "/products/instruments-and-panels32.jpg"
+  },
+  {
+    "id": 179,
+    "name": "0 TO 21 KG/CM2 (300 PSI) BOTTOM CONNECTION PRESSURE GAUGE – NZO",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE GAUGES",
+    "subCategory2": "BOTTOM CONNECTION [ONLINE] PRESSURE GAUGE",
+    "price": {
+      "original": "1200",
+      "discounted": "550"
+    },
+    "image": "/products/instruments-and-panels33.jpg"
+  },
+  {
+    "id": 180,
+    "name": "0 TO 21 KG/CM2 BOTTOM CONNECTION PRESSURE GAUGE",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE GAUGES",
+    "subCategory2": "BOTTOM CONNECTION [ONLINE] PRESSURE GAUGE",
+    "price": {
+      "original": "800",
+      "discounted": "350"
+    },
+    "image": "/products/instruments-and-panels34.jpg"
+  },
+  {
+    "id": 181,
+    "name": "0 TO 7 KG/CM2 (100 PSI) BOTTOM CONNECTION PRESSURE GAUGE – NZO",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE GAUGES",
+    "subCategory2": "BOTTOM CONNECTION [ONLINE] PRESSURE GAUGE",
+    "price": {
+      "original": "1200",
+      "discounted": "550"
+    },
+    "image": "/products/instruments-and-panels35.jpg"
+  },
+  {
+    "id": 182,
+    "name": "0 TO 7 KG/CM2 BOTTOM CONNECTION PRESSURE GAUGE",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE GAUGES",
+    "subCategory2": "BOTTOM CONNECTION [ONLINE] PRESSURE GAUGE",
+    "price": {
+      "original": "800",
+      "discounted": "340"
+    },
+    "image": "/products/instruments-and-panels36.jpg"
+  },
+  {
+    "id": 183,
+    "name": "HPS – HIGH PRESSURE SWITCH – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE SWITCHES",
+    "subCategory2": null,
+    "price": {
+      "original": "1190",
+      "discounted": "945"
+    },
+    "image": "/products/instruments-and-panels37.jpg"
+  },
+  {
+    "id": 184,
+    "name": "HPS – HIGH PRESSURE SWITCH ASTER-NXT",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE SWITCHES",
+    "subCategory2": null,
+    "price": {
+      "original": "1520",
+      "discounted": "845"
+    },
+    "image": "/products/instruments-and-panels38.jpg"
+  },
+  {
+    "id": 185,
+    "name": "LPS – LOW PRESSURE SWITCH – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE SWITCHES",
+    "subCategory2": null,
+    "price": {
+      "original": "1190",
+      "discounted": "945"
+    },
+    "image": "/products/instruments-and-panels39.jpg"
+  },
+  {
+    "id": 186,
+    "name": "LPS – LOW PRESSURE SWITCH ASTER-NXT",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "PRESSURE SWITCHES",
+    "subCategory2": null,
+    "price": {
+      "original": "1050",
+      "discounted": "749"
+    },
+    "image": "/products/instruments-and-panels40.jpg"
+  },
+  {
+    "id": 187,
+    "name": "ROTAMETER 10000 LPH ONLINE [FLOW METER] – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "ONLINE ROTAMETERS",
+    "price": {
+      "original": "3800",
+      "discounted": "3056"
+    },
+    "image": "/products/instruments-and-panels41.jpg"
+  },
+  {
+    "id": 188,
+    "name": "ROTAMETER 1200 LPH ONLINE [FLOW METER]",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "ONLINE ROTAMETERS",
+    "price": {
+      "original": "1740",
+      "discounted": "1344"
+    },
+    "image": "/products/instruments-and-panels42.jpg"
+  },
+  {
+    "id": 189,
+    "name": "ROTAMETER 2400 LPH ONLINE [FLOW METER]",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "ONLINE ROTAMETERS",
+    "price": {
+      "original": "1800",
+      "discounted": "1299"
+    },
+    "image": "/products/instruments-and-panels43.jpg"
+  },
+  {
+    "id": 190,
+    "name": "ROTAMETER 3000 LPH ONLINE [FLOW METER] – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "ONLINE ROTAMETERS",
+    "price": {
+      "original": "1700",
+      "discounted": "1560"
+    },
+    "image": "/products/instruments-and-panels44.jpg"
+  },
+  {
+    "id": 191,
+    "name": "ROTAMETER 5000 LPH ONLINE [FLOW METER] – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "ONLINE ROTAMETERS",
+    "price": {
+      "original": "2800",
+      "discounted": "2520"
+    },
+    "image": "/products/instruments-and-panels45.jpg"
+  },
+  {
+    "id": 192,
+    "name": "ROTAMETER 7500 LPH ONLINE [FLOW METER] – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "ONLINE ROTAMETERS",
+    "price": {
+      "original": "4200",
+      "discounted": "3080"
+    },
+    "image": "/products/instruments-and-panels46.jpg"
+  },
+  {
+    "id": 193,
+    "name": "ROTAMETER 10000 LPH PANEL MOUNT [FLOW METER] – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "PANEL MOUNTED ROTAMETERS",
+    "price": {
+      "original": "3200",
+      "discounted": "2520"
+    },
+    "image": "/products/instruments-and-panels47.jpg"
+  },
+  {
+    "id": 194,
+    "name": "ROTAMETER 1200 LPH PANEL MOUNT [FLOW METER]",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "PANEL MOUNTED ROTAMETERS",
+    "price": {
+      "original": "1540",
+      "discounted": "1280"
+    },
+    "image": "/products/instruments-and-panels48.jpg"
+  },
+  {
+    "id": 195,
+    "name": "ROTAMETER 2400 LPH PANEL MOUNT [FLOW METER]",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "PANEL MOUNTED ROTAMETERS",
+    "price": {
+      "original": "1499",
+      "discounted": "1248"
+    },
+    "image": "/products/instruments-and-panels49.jpg"
+  },
+  {
+    "id": 196,
+    "name": "ROTAMETER 3000 LPH PANEL MOUNT [FLOW METER] – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "PANEL MOUNTED ROTAMETERS",
+    "price": {
+      "original": "1700",
+      "discounted": "1560"
+    },
+    "image": "/products/instruments-and-panels50.jpg"
+  },
+  {
+    "id": 197,
+    "name": "ROTAMETER 5000 LPH PANEL MOUNT [FLOW METER] – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "PANEL MOUNTED ROTAMETERS",
+    "price": {
+      "original": "2800",
+      "discounted": "2520"
+    },
+    "image": "/products/instruments-and-panels51.jpg"
+  },
+  {
+    "id": 198,
+    "name": "ROTAMETER 7500 LPH PANEL MOUNT [FLOW METER] – ASTER",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "ROTAMETERS",
+    "subCategory2": "PANEL MOUNTED ROTAMETERS",
+    "price": {
+      "original": "3000",
+      "discounted": "2520"
+    },
+    "image": "/products/instruments-and-panels52.jpg"
+  },
+  {
+    "id": 199,
+    "name": "FLOAT SWITCH [WATER LEVEL CONTROLLER FLOAT SENSOR]",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "SENSORS",
+    "subCategory2": null,
+    "price": {
+      "original": "800",
+      "discounted": "349"
+    },
+    "image": "/products/instruments-and-panels53.jpg"
+  },
+  {
+    "id": 200,
+    "name": "FLOW SENSOR 1.5\" (40 MM)",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "SENSORS",
+    "subCategory2": null,
+    "price": {
+      "original": "4800",
+      "discounted": "3780"
+    },
+    "image": "/products/instruments-and-panels54.jpg"
+  },
+  {
+    "id": 201,
+    "name": "FLOW SENSOR 1\" (25 MM)",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "SENSORS",
+    "subCategory2": null,
+    "price": {
+      "original": "1450",
+      "discounted": "1162"
+    },
+    "image": "/products/instruments-and-panels55.jpg"
+  },
+  {
+    "id": 202,
+    "name": "FLOW SENSOR 1/2\" (15 MM)",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "SENSORS",
+    "subCategory2": null,
+    "price": {
+      "original": "990",
+      "discounted": "450"
+    },
+    "image": "/products/instruments-and-panels56.jpg"
+  },
+  {
+    "id": 203,
+    "name": "FLOW SENSOR 2\" (50 MM)",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "SENSORS",
+    "subCategory2": null,
+    "price": {
+      "original": "5900",
+      "discounted": "4480"
+    },
+    "image": "/products/instruments-and-panels57.jpg"
+  },
+  {
+    "id": 204,
+    "name": "FLOW SENSOR 3/4\" (20 MM)",
+    "category": "INSTRUMENTS & PANELS",
+    "subCategory": "SENSORS",
+    "subCategory2": null,
+    "price": {
+      "original": "1100",
+      "discounted": "1048"
+    },
+    "image": "/products/instruments-and-panels58.jpg"
+  },
+  {
+    "id": 205,
+    "name": "AQUASOL DIGITAL PH METER PEN TYPE",
+    "category": "WATER TESTING METERS",
+    "subCategory": "HANDHELD TESTING METERS",
+    "subCategory2": null,
+    "price": {
+      "original": "1340",
+      "discounted": "923"
+    },
+    "image": "/products/water-testing-meters1.jpg"
+  },
+  {
+    "id": 206,
+    "name": "AQUASOL DIGITAL TDS & CONDUCTIVITY METER PEN TYPE",
+    "category": "WATER TESTING METERS",
+    "subCategory": "HANDHELD TESTING METERS",
+    "subCategory2": null,
+    "price": {
+      "original": "1050",
+      "discounted": "663"
+    },
+    "image": "/products/water-testing-meters2.jpg"
+  },
+  {
+    "id": 207,
+    "name": "HM DIGITAL TDS METER TDS 3 (HANDHELD)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "HANDHELD TESTING METERS",
+    "subCategory2": null,
+    "price": {
+      "original": "1580",
+      "discounted": "910"
+    },
+    "image": "/products/water-testing-meters3.jpg"
+  },
+  {
+    "id": 208,
+    "name": "FLOW SENSOR 1.5\" (40 MM)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "4800",
+      "discounted": "3780"
+    },
+    "image": "/products/water-testing-meters4.jpg"
+  },
+  {
+    "id": 209,
+    "name": "FLOW SENSOR 1\" (25 MM)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "1450",
+      "discounted": "1162"
+    },
+    "image": "/products/water-testing-meters5.jpg"
+  },
+  {
+    "id": 210,
+    "name": "FLOW SENSOR 1/2\" (15 MM)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "990",
+      "discounted": "450"
+    },
+    "image": "/products/water-testing-meters6.jpg"
+  },
+  {
+    "id": 211,
+    "name": "FLOW SENSOR 2\" (50 MM)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "5900",
+      "discounted": "4480"
+    },
+    "image": "/products/water-testing-meters7.jpg"
+  },
+  {
+    "id": 212,
+    "name": "FLOW SENSOR 3/4\" (20 MM)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "1100",
+      "discounted": "1048"
+    },
+    "image": "/products/water-testing-meters8.jpg"
+  },
+  {
+    "id": 213,
+    "name": "ONLINE DIGITAL FLOW METER FT-650 – 20 NB – 4~20 MA + RELAY – ASTER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "13900",
+      "discounted": "9400"
+    },
+    "image": "/products/water-testing-meters9.jpg"
+  },
+  {
+    "id": 214,
+    "name": "ONLINE DIGITAL FLOW METER FT-650 – 20 NB – RELAY – ASTER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "9400",
+      "discounted": "7600"
+    },
+    "image": "/products/water-testing-meters10.jpg"
+  },
+  {
+    "id": 215,
+    "name": "ONLINE DIGITAL FLOW METER FT-650 – 25 NB – 4~20 MA + RELAY – ASTER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "11800",
+      "discounted": "9200"
+    },
+    "image": "/products/water-testing-meters11.jpg"
+  },
+  {
+    "id": 216,
+    "name": "ONLINE DIGITAL FLOW METER FT-650 – 25 NB – RELAY – ASTER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "8700",
+      "discounted": "7200"
+    },
+    "image": "/products/water-testing-meters12.jpg"
+  },
+  {
+    "id": 217,
+    "name": "ONLINE DIGITAL FLOW METER FT-650 – 50 NB – 4~20 MA + RELAY – ASTER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "14300",
+      "discounted": "12400"
+    },
+    "image": "/products/water-testing-meters13.jpg"
+  },
+  {
+    "id": 218,
+    "name": "ONLINE DIGITAL FLOW METER FT-650 – 50 NB – RELAY – ASTER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "12500",
+      "discounted": "10200"
+    },
+    "image": "/products/water-testing-meters14.jpg"
+  },
+  {
+    "id": 219,
+    "name": "ONLINE DIGITAL FLOW METER FT-650 – 20 NB – RS 485 + RELAY – ASTER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "13900",
+      "discounted": "10900"
+    },
+    "image": "/products/water-testing-meters15.jpg"
+  },
+  {
+    "id": 220,
+    "name": "ONLINE DIGITAL FLOW METER FT-650 – 25 NB – RS 485 + RELAY – ASTER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "12800",
+      "discounted": "9800"
+    },
+    "image": "/products/water-testing-meters16.jpg"
+  },
+  {
+    "id": 221,
+    "name": "ONLINE DIGITAL FLOW METER FT-650 – 50 NB – RS 485 + RELAY – ASTER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE FLOW METERS",
+    "price": {
+      "original": "21000",
+      "discounted": "17920"
+    },
+    "image": "/products/water-testing-meters17.jpg"
+  },
+  {
+    "id": 222,
+    "name": "ONLINE ASTER ORP METER PO-650 – ASTER (EMBARK)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE ORP METERS",
+    "price": {
+      "original": "15050",
+      "discounted": "12050"
+    },
+    "image": "/products/water-testing-meters18.jpg"
+  },
+  {
+    "id": 223,
+    "name": "ONLINE PH METER PO 650 – ASTER (EMBARK)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE PH METERS",
+    "price": {
+      "original": "11000",
+      "discounted": "8800"
+    },
+    "image": "/products/water-testing-meters19.jpg"
+  },
+  {
+    "id": 224,
+    "name": "ONLINE PH METER PO 650 – ASTER (EMBARK) – RELAY OUTPUT WITH 4~20 MA",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE PH METERS",
+    "price": {
+      "original": "17000",
+      "discounted": "13200"
+    },
+    "image": "/products/water-testing-meters20.jpg"
+  },
+  {
+    "id": 225,
+    "name": "ONLINE PH METER PO 650 – ASTER (EMBARK) – RELAY OUTPUT WITH RS 485",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE PH METERS",
+    "price": {
+      "original": "19000",
+      "discounted": "14800"
+    },
+    "image": "/products/water-testing-meters21.jpg"
+  },
+  {
+    "id": 226,
+    "name": "ONLINE CONDUCTIVITY & TDS METER CT-650 – ASTER (EMBARK)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE TDS / CONDUCTIVITY METER",
+    "price": {
+      "original": "7800–10580",
+      "discounted": "5650–8550"
+    },
+    "image": "/products/water-testing-meters22.jpg"
+  },
+  {
+    "id": 227,
+    "name": "ONLINE CONDUCTIVITY METER – CI 350 – ASTER (EMBARK)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE TDS / CONDUCTIVITY METER",
+    "price": {
+      "original": "4900",
+      "discounted": "3360"
+    },
+    "image": "/products/water-testing-meters23.jpg"
+  },
+  {
+    "id": 228,
+    "name": "ONLINE TDS METER – TI 350 – ASTER (EMBARK)",
+    "category": "WATER TESTING METERS",
+    "subCategory": "ONLINE (INLINE) TESTING METERS",
+    "subCategory2": "ONLINE TDS / CONDUCTIVITY METER",
+    "price": {
+      "original": "4050",
+      "discounted": "3099"
+    },
+    "image": "/products/water-testing-meters24.jpg"
+  },
+  {
+    "id": 229,
+    "name": "PORTABLE CHLORINE METER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "PORTABLE / TABLE TOP METERS",
+    "subCategory2": null,
+    "price": {
+      "original": "29930",
+      "discounted": "20475"
+    },
+    "image": "/products/water-testing-meters25.jpg"
+  },
+  {
+    "id": 230,
+    "name": "PORTABLE CHLORINE METER: REFILL REAGENT – FREE CHLORINE",
+    "category": "WATER TESTING METERS",
+    "subCategory": "PORTABLE / TABLE TOP METERS",
+    "subCategory2": null,
+    "price": {
+      "original": "950",
+      "discounted": "730"
+    },
+    "image": "/products/water-testing-meters26.jpg"
+  },
+  {
+    "id": 231,
+    "name": "PORTABLE TURBIDITY METER",
+    "category": "WATER TESTING METERS",
+    "subCategory": "PORTABLE / TABLE TOP METERS",
+    "subCategory2": null,
+    "price": {
+      "original": "33850",
+      "discounted": "29705"
+    },
+    "image": "/products/water-testing-meters27.jpg"
+  },
+  {
+    "id": 232,
+    "name": "FLOW SENSOR 1.5\" (40 MM)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "RO PLANT ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "4800",
+      "discounted": "3780"
+    },
+    "image": "/products/ro-plants-and-accessories1.jpg"
+  },
+  {
+    "id": 233,
+    "name": "FLOW SENSOR 1\" (25 MM)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "RO PLANT ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "1450",
+      "discounted": "1162"
+    },
+    "image": "/products/ro-plants-and-accessories2.jpg"
+  },
+  {
+    "id": 234,
+    "name": "FLOW SENSOR 1/2\" (15 MM)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "RO PLANT ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "990",
+      "discounted": "450"
+    },
+    "image": "/products/ro-plants-and-accessories3.jpg"
+  },
+  {
+    "id": 235,
+    "name": "FLOW SENSOR 2\" (50 MM)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "RO PLANT ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "5900",
+      "discounted": "4480"
+    },
+    "image": "/products/ro-plants-and-accessories4.jpg"
+  },
+  {
+    "id": 236,
+    "name": "FLOW SENSOR 3/4\" (20 MM)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "RO PLANT ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "1100",
+      "discounted": "1048"
+    },
+    "image": "/products/ro-plants-and-accessories5.jpg"
+  },
+  {
+    "id": 237,
+    "name": "1 INCH AIR RELEASE VALVE (ARV) [VACUUM BREAKER] – RM",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "RO PLANT ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "550",
+      "discounted": "350"
+    },
+    "image": "/products/ro-plants-and-accessories6.jpg"
+  },
+  {
+    "id": 238,
+    "name": "40 NB AIR RELEASE VALVE (ARV) [VACUUM BREAKER]",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "RO PLANT ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "950",
+      "discounted": "780"
+    },
+    "image": "/products/ro-plants-and-accessories7.jpg"
+  },
+  {
+    "id": 239,
+    "name": "REDUCER ADAPTER 4\" X 2.5\" FOR VESSEL & MPV",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "RO PLANT ACCESSORIES",
+    "subCategory2": null,
+    "price": {
+      "original": "650",
+      "discounted": "480"
+    },
+    "image": "/products/ro-plants-and-accessories8.jpg"
+  },
+  {
+    "id": 240,
+    "name": "ALFA ECOSTREAM UV ECS04L (UV FOR 250 LPH RO)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "UV PURIFIERS",
+    "subCategory2": null,
+    "price": {
+      "original": "6000",
+      "discounted": "3246"
+    },
+    "image": "/products/ro-plants-and-accessories9.jpg"
+  },
+  {
+    "id": 241,
+    "name": "ALFA ECOSTREAM UV ECS07L (UV FOR 500 LPH RO)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "UV PURIFIERS",
+    "subCategory2": null,
+    "price": {
+      "original": "5800",
+      "discounted": "3790"
+    },
+    "image": "/products/ro-plants-and-accessories10.jpg"
+  },
+  {
+    "id": 242,
+    "name": "ALFA ECOSTREAM UV ECS15L (UV FOR 1000 LPH RO)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "UV PURIFIERS",
+    "subCategory2": null,
+    "price": {
+      "original": "7100",
+      "discounted": "4680"
+    },
+    "image": "/products/ro-plants-and-accessories11.jpg"
+  },
+  {
+    "id": 243,
+    "name": "ALFA ECOSTREAM UV ECS25L (UV FOR 2000 LPH RO)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "UV PURIFIERS",
+    "subCategory2": null,
+    "price": {
+      "original": "11500",
+      "discounted": "8290"
+    },
+    "image": "/products/ro-plants-and-accessories12.jpg"
+  },
+  {
+    "id": 244,
+    "name": "ALFA ECOSTREAM UV ECS40L (UV FOR 3000 LPH RO)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "UV PURIFIERS",
+    "subCategory2": null,
+    "price": {
+      "original": "12000",
+      "discounted": "9490"
+    },
+    "image": "/products/ro-plants-and-accessories13.jpg"
+  },
+  {
+    "id": 245,
+    "name": "ALFA ECOSTREAM UV ECS70L (UV FOR 5000 LPH RO)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "UV PURIFIERS",
+    "subCategory2": null,
+    "price": {
+      "original": "19010",
+      "discounted": "12900"
+    },
+    "image": "/products/ro-plants-and-accessories14.jpg"
+  },
+  {
+    "id": 246,
+    "name": "DRY ACID FOR SWIMMING POOLS (50 KG) – ACURO",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "SWIMMING POOL COMPONENTS",
+    "subCategory2": null,
+    "price": {
+      "original": "3200",
+      "discounted": "2240"
+    },
+    "image": "/products/ro-plants-and-accessories15.jpg"
+  },
+  {
+    "id": 247,
+    "name": "POOLO (CONCENTRATED SWIMMING POOL ALGAECIDE) – ACURO – 25 KG",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "SWIMMING POOL COMPONENTS",
+    "subCategory2": null,
+    "price": {
+      "original": "6800",
+      "discounted": "5600"
+    },
+    "image": "/products/ro-plants-and-accessories16.jpg"
+  },
+  {
+    "id": 248,
+    "name": "POOLO (CONCENTRATED SWIMMING POOL ALGAECIDE) – ACURO – 5 KG",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "SWIMMING POOL COMPONENTS",
+    "subCategory2": null,
+    "price": {
+      "original": "1680",
+      "discounted": "1190"
+    },
+    "image": "/products/ro-plants-and-accessories17.jpg"
+  },
+  {
+    "id": 249,
+    "name": "PSEUDOMONAS + TOTAL BACTERIA COUNT TEST KIT – BS103",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "SWIMMING POOL COMPONENTS",
+    "subCategory2": null,
+    "price": {
+      "original": "1530",
+      "discounted": "1275"
+    },
+    "image": "/products/ro-plants-and-accessories18.jpg"
+  },
+  {
+    "id": 250,
+    "name": "COCONUT SHELL ACTIVATED CARBON 1100 IV – RADOCARB – G110 (25 KG)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "SWIMMING POOL COMPONENTS",
+    "subCategory2": null,
+    "price": {
+      "original": "13000",
+      "discounted": "9800"
+    },
+    "image": "/products/ro-plants-and-accessories19.jpg"
+  },
+  {
+    "id": 251,
+    "name": "COCONUT SHELL ACTIVATED CARBON 1100 IV (25 KG) VIRGIN GRADE",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "SWIMMING POOL COMPONENTS",
+    "subCategory2": null,
+    "price": {
+      "original": "10200",
+      "discounted": "9600"
+    },
+    "image": "/products/ro-plants-and-accessories20.jpg"
+  },
+  {
+    "id": 252,
+    "name": "GLASS FILTRATION MEDIA – EMAUX (25 KG)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "SWIMMING POOL COMPONENTS",
+    "subCategory2": null,
+    "price": {
+      "original": "4350",
+      "discounted": "3150"
+    },
+    "image": "/products/ro-plants-and-accessories21.jpg"
+  },
+  {
+    "id": 253,
+    "name": "ONLINE ASTER ORP METER PO-650 – ASTER (EMBARK)",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "SWIMMING POOL COMPONENTS",
+    "subCategory2": null,
+    "price": {
+      "original": "15050",
+      "discounted": "12050"
+    },
+    "image": "/products/ro-plants-and-accessories22.jpg"
+  },
+  {
+    "id": 254,
+    "name": "WATER ATM RFID CARDS – ASTER [PACK OF 100]",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "3900",
+      "discounted": "3000"
+    },
+    "image": "/products/ro-plants-and-accessories23.jpg"
+  },
+  {
+    "id": 255,
+    "name": "WATER ATM RFID CARDS – ASTER [PACK OF 25]",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "1050",
+      "discounted": "875"
+    },
+    "image": "/products/ro-plants-and-accessories24.jpg"
+  },
+  {
+    "id": 256,
+    "name": "WATER ATM RFID CARDS – ASTER [PACK OF 50]",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "2000",
+      "discounted": "1500"
+    },
+    "image": "/products/ro-plants-and-accessories25.jpg"
+  },
+  {
+    "id": 257,
+    "name": "WATER ATM RFID CARDS – RO CON [PACK OF 100]",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "4800",
+      "discounted": "3558"
+    },
+    "image": "/products/ro-plants-and-accessories26.jpg"
+  },
+  {
+    "id": 258,
+    "name": "WATER ATM RFID CARDS – RO CON [PACK OF 25]",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "937.5",
+      "discounted": "781.25"
+    },
+    "image": "/products/ro-plants-and-accessories27.jpg"
+  },
+  {
+    "id": 259,
+    "name": "WATER ATM RFID CARDS – RO CON [PACK OF 50]",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "2500",
+      "discounted": "1780"
+    },
+    "image": "/products/ro-plants-and-accessories28.jpg"
+  },
+  {
+    "id": 260,
+    "name": "RO CON COIN + SMART CARD BASED WATER ATM",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "26735",
+      "discounted": "13253"
+    },
+    "image": "/products/ro-plants-and-accessories29.jpg"
+  },
+  {
+    "id": 261,
+    "name": "RO CON COIN + SMART CARD BASED WATER ATM WITH 2 TAPS",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "31887",
+      "discounted": "17299"
+    },
+    "image": "/products/ro-plants-and-accessories30.jpg"
+  },
+  {
+    "id": 262,
+    "name": "RO CON COIN + SMART CARD BASED WATER ATM WITH GSM",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "33383",
+      "discounted": "16550"
+    },
+    "image": "/products/ro-plants-and-accessories31.jpg"
+  },
+  {
+    "id": 263,
+    "name": "RO CON COIN BASED WATER ATM",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "20179",
+      "discounted": "10625"
+    },
+    "image": "/products/ro-plants-and-accessories32.jpg"
+  },
+  {
+    "id": 264,
+    "name": "RO CON COIN BASED WATER ATM WITH 2 TAPS",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "25332",
+      "discounted": "12558"
+    },
+    "image": "/products/ro-plants-and-accessories33.jpg"
+  },
+  {
+    "id": 265,
+    "name": "RO CON COIN BASED WATER ATM WITH GSM",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "26827",
+      "discounted": "13300"
+    },
+    "image": "/products/ro-plants-and-accessories34.jpg"
+  },
+  {
+    "id": 266,
+    "name": "RO CON SMART CARD BASED WATER ATM",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "18212",
+      "discounted": "9028"
+    },
+    "image": "/products/ro-plants-and-accessories35.jpg"
+  },
+  {
+    "id": 267,
+    "name": "RO CON SMART CARD BASED WATER ATM WITH 2 TAPS",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "23365",
+      "discounted": "14800"
+    },
+    "image": "/products/ro-plants-and-accessories36.jpg"
+  },
+  {
+    "id": 268,
+    "name": "RO CON SMART CARD BASED WATER ATM WITH GSM",
+    "category": "RO PLANTS & ACCESSORIES",
+    "subCategory": "WATER ATM",
+    "subCategory2": null,
+    "price": {
+      "original": "24860",
+      "discounted": "12324"
+    },
+    "image": "/products/ro-plants-and-accessories37.jpg"
+  },
+  {
+    "id": 269,
+    "name": "ALGAE TEST KIT – BS125",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "3330",
+      "discounted": "2775"
+    },
+    "image": "/products/testing-kits1.jpg"
+  },
+  {
+    "id": 270,
+    "name": "CHEKNSEE – DRINKING WATER TEST KIT (E.COLI / COLIFORM) – CNC10",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1625",
+      "discounted": "1425"
+    },
+    "image": "/products/testing-kits2.jpg"
+  },
+  {
+    "id": 271,
+    "name": "E.COLI + TOTAL BACTERIA COUNT TEST KIT – BS102",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1530",
+      "discounted": "1275"
+    },
+    "image": "/products/testing-kits3.jpg"
+  },
+  {
+    "id": 272,
+    "name": "IRON OXIDIZING BACTERIA TEST KIT – BSPP1",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "2010",
+      "discounted": "1792"
+    },
+    "image": "/products/testing-kits4.jpg"
+  },
+  {
+    "id": 273,
+    "name": "NITRIFYING / DENITRIFYING BACTERIA TEST KIT – BS130",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "3960",
+      "discounted": "3300"
+    },
+    "image": "/products/testing-kits5.jpg"
+  },
+  {
+    "id": 274,
+    "name": "PSEUDOMONAS + TOTAL BACTERIA COUNT TEST KIT – BS103",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1530",
+      "discounted": "1275"
+    },
+    "image": "/products/testing-kits6.jpg"
+  },
+  {
+    "id": 275,
+    "name": "SALMONELLA SPECIES TEST KIT – BSPP2",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1780",
+      "discounted": "1492"
+    },
+    "image": "/products/testing-kits7.jpg"
+  },
+  {
+    "id": 276,
+    "name": "STAPHYLOCOCCUS AUREUS SPECIES TEST KIT – BSPP3",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1790",
+      "discounted": "1495"
+    },
+    "image": "/products/testing-kits8.jpg"
+  },
+  {
+    "id": 277,
+    "name": "SULPHATE REDUCING BACTERIA KIT – BS115",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1782",
+      "discounted": "1485"
+    },
+    "image": "/products/testing-kits9.jpg"
+  },
+  {
+    "id": 278,
+    "name": "VIBRIO SPECIES TEST KIT – BSPP4",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1820",
+      "discounted": "1492"
+    },
+    "image": "/products/testing-kits10.jpg"
+  },
+  {
+    "id": 279,
+    "name": "YEAST & FUNGI + TOTAL BACTERIA COUNT TEST KIT – BS101",
+    "category": "TESTING KITS",
+    "subCategory": "BACTERIA TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1530",
+      "discounted": "1275"
+    },
+    "image": "/products/testing-kits11.jpg"
+  },
+  {
+    "id": 280,
+    "name": "BOILER WATER MULTI-PARAMETER TEST KIT – AE102 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "MULTI-PARAMETERS TEST KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits12.jpg"
+  },
+  {
+    "id": 281,
+    "name": "COOLING WATER MULTI-PARAMETER TEST KIT – AE101 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "MULTI-PARAMETERS TEST KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits13.jpg"
+  },
+  {
+    "id": 282,
+    "name": "DRINKING WATER MULTI-PARAMETER TEST KIT – AE103 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "MULTI-PARAMETERS TEST KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits14.jpg"
+  },
+  {
+    "id": 283,
+    "name": "PURIFIED WATER MULTI-PARAMETER TEST KIT – AE106 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "MULTI-PARAMETERS TEST KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits15.jpg"
+  },
+  {
+    "id": 284,
+    "name": "RO WATER MULTI-PARAMETER TEST KIT – AE104 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "MULTI-PARAMETERS TEST KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits16.jpg"
+  },
+  {
+    "id": 285,
+    "name": "CHEKNSEE – DRINKING WATER TEST KIT (E.COLI / COLIFORM) – CNC10",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1625",
+      "discounted": "1425"
+    },
+    "image": "/products/testing-kits17.jpg"
+  },
+  {
+    "id": 286,
+    "name": "ACIDITY TEST KIT (AE-264) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1490",
+      "discounted": "679"
+    },
+    "image": "/products/testing-kits18.jpg"
+  },
+  {
+    "id": 287,
+    "name": "ALKALINITY TEST KIT (AE-204) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1450",
+      "discounted": "672"
+    },
+    "image": "/products/testing-kits19.jpg"
+  },
+  {
+    "id": 288,
+    "name": "ALKALINITY TEST KIT (AE-214) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1450",
+      "discounted": "672"
+    },
+    "image": "/products/testing-kits20.jpg"
+  },
+  {
+    "id": 289,
+    "name": "AMINE (FOR BOILER WATER ONLY) (AE-412) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1790",
+      "discounted": "882"
+    },
+    "image": "/products/testing-kits21.jpg"
+  },
+  {
+    "id": 290,
+    "name": "AMINE TEST KIT (FOR BOILER WATER ONLY) (AE-402) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1790",
+      "discounted": "882"
+    },
+    "image": "/products/testing-kits22.jpg"
+  },
+  {
+    "id": 291,
+    "name": "AMMONIUM TEST KIT (AE-307) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1550",
+      "discounted": "1199"
+    },
+    "image": "/products/testing-kits23.jpg"
+  },
+  {
+    "id": 292,
+    "name": "AMMONIUM TEST KIT (AE-317) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1550",
+      "discounted": "1199"
+    },
+    "image": "/products/testing-kits24.jpg"
+  },
+  {
+    "id": 293,
+    "name": "ARSENIC TEST KIT (AE-408) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "2610",
+      "discounted": "2131"
+    },
+    "image": "/products/testing-kits25.jpg"
+  },
+  {
+    "id": 294,
+    "name": "BOILER WATER MULTI-PARAMETER TEST KIT – AE102 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits26.jpg"
+  },
+  {
+    "id": 295,
+    "name": "BROMINE TEST KIT (AE-404) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1590",
+      "discounted": "1155"
+    },
+    "image": "/products/testing-kits27.jpg"
+  },
+  {
+    "id": 296,
+    "name": "CALCIUM HARDNESS TEST KIT (AE-202) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1200",
+      "discounted": "795"
+    },
+    "image": "/products/testing-kits28.jpg"
+  },
+  {
+    "id": 297,
+    "name": "CALCIUM HARDNESS TEST KIT (AE-212) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1200",
+      "discounted": "795"
+    },
+    "image": "/products/testing-kits29.jpg"
+  },
+  {
+    "id": 298,
+    "name": "CARBON DIOXIDE (CO2) TEST KIT (AE-403) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1560",
+      "discounted": "1140"
+    },
+    "image": "/products/testing-kits30.jpg"
+  },
+  {
+    "id": 299,
+    "name": "CHEMICAL OXYGEN DEMAND (COD) TEST KIT (AE-407) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "5660",
+      "discounted": "4131"
+    },
+    "image": "/products/testing-kits31.jpg"
+  },
+  {
+    "id": 300,
+    "name": "CHLORIDE TEST KIT (AE-203) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1500",
+      "discounted": "1093"
+    },
+    "image": "/products/testing-kits32.jpg"
+  },
+  {
+    "id": 301,
+    "name": "CHLORIDE TEST KIT (AE-213) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1800",
+      "discounted": "1365"
+    },
+    "image": "/products/testing-kits33.jpg"
+  },
+  {
+    "id": 302,
+    "name": "CHLORIDE TEST KIT (AE-213L) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1500",
+      "discounted": "1093"
+    },
+    "image": "/products/testing-kits34.jpg"
+  },
+  {
+    "id": 303,
+    "name": "CHLORINE DIOXIDE (CLO2) TEST KIT (AE-405) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1640",
+      "discounted": "1186"
+    },
+    "image": "/products/testing-kits35.jpg"
+  },
+  {
+    "id": 304,
+    "name": "CHLOROSCOPE – CHLORINE TEST KIT (AE-409) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "905",
+      "discounted": "666"
+    },
+    "image": "/products/testing-kits36.jpg"
+  },
+  {
+    "id": 305,
+    "name": "CHROMATE TEST KIT (AE-208) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1350",
+      "discounted": "984"
+    },
+    "image": "/products/testing-kits37.jpg"
+  },
+  {
+    "id": 306,
+    "name": "COOLING WATER MULTI-PARAMETER TEST KIT – AE101 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits38.jpg"
+  },
+  {
+    "id": 307,
+    "name": "DISSOLVED OXYGEN TEST KIT (AE-DO8) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1350",
+      "discounted": "1131"
+    },
+    "image": "/products/testing-kits39.jpg"
+  },
+  {
+    "id": 308,
+    "name": "DRINKING WATER MULTI-PARAMETER TEST KIT – AE103 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits40.jpg"
+  },
+  {
+    "id": 309,
+    "name": "FREE CHLORINE (IODOMETRIC METHOD) TEST KIT AE246 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1422",
+      "discounted": "1185"
+    },
+    "image": "/products/testing-kits41.jpg"
+  },
+  {
+    "id": 310,
+    "name": "FREE CHLORINE (IODOMETRIC METHOD) TEST KIT AE246L – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1560",
+      "discounted": "1185"
+    },
+    "image": "/products/testing-kits42.jpg"
+  },
+  {
+    "id": 311,
+    "name": "PURIFIED WATER MULTI-PARAMETER TEST KIT – AE106 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits43.jpg"
+  },
+  {
+    "id": 312,
+    "name": "RO WATER MULTI-PARAMETER TEST KIT – AE104 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "7110",
+      "discounted": "5925"
+    },
+    "image": "/products/testing-kits44.jpg"
+  },
+  {
+    "id": 313,
+    "name": "TANNIN TEST KIT AE2TN – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "872",
+      "discounted": "698"
+    },
+    "image": "/products/testing-kits45.jpg"
+  },
+  {
+    "id": 314,
+    "name": "TOTAL HARDNESS TEST KIT (AE-201) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1350",
+      "discounted": "630"
+    },
+    "image": "/products/testing-kits46.jpg"
+  },
+  {
+    "id": 315,
+    "name": "TOTAL HARDNESS TEST KIT (AE-211) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1350",
+      "discounted": "630"
+    },
+    "image": "/products/testing-kits47.jpg"
+  },
+  {
+    "id": 316,
+    "name": "TOTAL HARDNESS TEST KIT (AE-221) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1350",
+      "discounted": "650"
+    },
+    "image": "/products/testing-kits48.jpg"
+  },
+  {
+    "id": 317,
+    "name": "TOTAL HARDNESS TEST KIT (AE-231) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1350",
+      "discounted": "630"
+    },
+    "image": "/products/testing-kits49.jpg"
+  },
+  {
+    "id": 318,
+    "name": "TOTAL HARDNESS TEST KIT (AE-241) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1350",
+      "discounted": "630"
+    },
+    "image": "/products/testing-kits50.jpg"
+  },
+  {
+    "id": 319,
+    "name": "TOTAL HARDNESS TEST KIT (AE-501) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1650",
+      "discounted": "770"
+    },
+    "image": "/products/testing-kits51.jpg"
+  },
+  {
+    "id": 320,
+    "name": "TOTAL HARDNESS TEST KIT (AE-511) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1650",
+      "discounted": "770"
+    },
+    "image": "/products/testing-kits52.jpg"
+  },
+  {
+    "id": 321,
+    "name": "TOTAL HARDNESS TEST KIT (AE-521) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1650",
+      "discounted": "770"
+    },
+    "image": "/products/testing-kits53.jpg"
+  },
+  {
+    "id": 322,
+    "name": "TOTAL HARDNESS TEST KIT (AE-531) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1650",
+      "discounted": "770"
+    },
+    "image": "/products/testing-kits54.jpg"
+  },
+  {
+    "id": 323,
+    "name": "TOTAL HARDNESS TEST KIT (AE-541) – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1650",
+      "discounted": "770"
+    },
+    "image": "/products/testing-kits55.jpg"
+  },
+  {
+    "id": 324,
+    "name": "TURBIDITY TEST KIT AE300 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "581",
+      "discounted": "465"
+    },
+    "image": "/products/testing-kits56.jpg"
+  },
+  {
+    "id": 325,
+    "name": "ZINC TEST KIT AE305 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "WATER TESTING KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "1764",
+      "discounted": "1470"
+    },
+    "image": "/products/testing-kits57.jpg"
+  },
+  {
+    "id": 326,
+    "name": "METAL WORKING FLUID MULTI-PARAMETER TEST KIT – AE107 – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "OTHER KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "2610",
+      "discounted": "2175"
+    },
+    "image": "/products/testing-kits58.jpg"
+  },
+  {
+    "id": 327,
+    "name": "SOIL TEST KIT – AESTK – AQUASOL",
+    "category": "TESTING KITS",
+    "subCategory": "OTHER KITS",
+    "subCategory2": null,
+    "price": {
+      "original": "5310",
+      "discounted": "4425"
+    },
+    "image": "/products/testing-kits59.jpg"
+  }
+]
