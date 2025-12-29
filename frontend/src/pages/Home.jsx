@@ -2,6 +2,7 @@ import Hero from "../components/hero/Hero";
 import Features from "../components/features/Features";
 import PlantSystems from "../components/products/PlantSystems";
 import HomeCategories from "../components/HomeCategories";
+import Footer from "../components/Footer";
 
 export default function Home() {
   return (
@@ -9,7 +10,8 @@ export default function Home() {
       <Hero />
       <Features />
       <PlantSystems />
-       <HomeCategories />
+      <HomeCategories />
+      <Footer />
     </>
   );
 }

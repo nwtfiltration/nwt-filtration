@@ -397,7 +397,7 @@
   },
   {
     "id": 34,
-    "name": "1665 TOP & BOTTOM OPENING FRP VESSEL – TATA STEEL",
+    "name": "1665 TOP AND BOTTOM OPENING FRP VESSEL – TATA STEEL",
     "category": "FRP VESSELS",
     "subCategory": "1665 FRP VESSEL",
     "subCategory2": null,
@@ -421,7 +421,7 @@
   },
   {
     "id": 36,
-    "name": "2162 FRP VESSEL TOP & BOTTOM OPENING – ATLANTIC PLUS",
+    "name": "2162 FRP VESSEL TOP AND BOTTOM OPENING – ATLANTIC PLUS",
     "category": "FRP VESSELS",
     "subCategory": "2162 FRP VESSEL",
     "subCategory2": null,
@@ -433,7 +433,7 @@
   },
   {
     "id": 37,
-    "name": "2162 FRP VESSEL TOP & BOTTOM OPENING – PENTAIR",
+    "name": "2162 FRP VESSEL TOP AND BOTTOM OPENING – PENTAIR",
     "category": "FRP VESSELS",
     "subCategory": "2162 FRP VESSEL",
     "subCategory2": null,
@@ -445,7 +445,7 @@
   },
   {
     "id": 38,
-    "name": "2472 FRP VESSEL TOP & BOTTOM OPENING – ATLANTIC PLUS",
+    "name": "2472 FRP VESSEL TOP AND BOTTOM OPENING – ATLANTIC PLUS",
     "category": "FRP VESSELS",
     "subCategory": "2472 FRP VESSEL",
     "subCategory2": null,
@@ -457,7 +457,7 @@
   },
   {
     "id": 39,
-    "name": "2472 FRP VESSEL TOP & BOTTOM OPENING – PENTAIR",
+    "name": "2472 FRP VESSEL TOP AND BOTTOM OPENING – PENTAIR",
     "category": "FRP VESSELS",
     "subCategory": "2472 FRP VESSEL",
     "subCategory2": null,
@@ -469,7 +469,7 @@
   },
   {
     "id": 40,
-    "name": "3072 FRP VESSEL TOP & BOTTOM OPENING – ATLANTIC PLUS",
+    "name": "3072 FRP VESSEL TOP AND BOTTOM OPENING – ATLANTIC PLUS",
     "category": "FRP VESSELS",
     "subCategory": "3072 FRP VESSEL",
     "subCategory2": null,
@@ -481,7 +481,7 @@
   },
   {
     "id": 41,
-    "name": "3072 FRP VESSEL TOP & BOTTOM OPENING – PENTAIR",
+    "name": "3072 FRP VESSEL TOP AND BOTTOM OPENING – PENTAIR",
     "category": "FRP VESSELS",
     "subCategory": "3072 FRP VESSEL",
     "subCategory2": null,
@@ -493,7 +493,7 @@
   },
   {
     "id": 42,
-    "name": "3672 FRP VESSEL TOP & BOTTOM OPENING – ATLANTIC PLUS",
+    "name": "3672 FRP VESSEL TOP AND BOTTOM OPENING – ATLANTIC PLUS",
     "category": "FRP VESSELS",
     "subCategory": "3672 FRP VESSEL",
     "subCategory2": null,
@@ -505,7 +505,7 @@
   },
   {
     "id": 43,
-    "name": "3672 FRP VESSEL TOP & BOTTOM OPENING – PENTAIR",
+    "name": "3672 FRP VESSEL TOP AND BOTTOM OPENING – PENTAIR",
     "category": "FRP VESSELS",
     "subCategory": "3672 FRP VESSEL",
     "subCategory2": null,
@@ -1082,7 +1082,7 @@
   {
     "id": 91,
     "name": "4040 PRESSURE TUBE [MEMBRANE HOUSING] – UKL",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "MEMBRANE HOUSINGS",
     "subCategory2": "4040 PRESSURE TUBE FOR RO MEMBRANE",
     "price": {
@@ -1094,7 +1094,7 @@
   {
     "id": 92,
     "name": "4040 PRESSURE TUBE SS [MEMBRANE HOUSING]",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "MEMBRANE HOUSINGS",
     "subCategory2": "4040 PRESSURE TUBE FOR RO MEMBRANE",
     "price": {
@@ -1106,7 +1106,7 @@
   {
     "id": 93,
     "name": "4080 PRESSURE TUBE [MEMBRANE HOUSING] – UKL",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "MEMBRANE HOUSINGS",
     "subCategory2": "4080 PRESSURE TUBE FOR RO MEMBRANE",
     "price": {
@@ -1118,7 +1118,7 @@
   {
     "id": 94,
     "name": "4080 PRESSURE TUBE SS 304 [MEMBRANE HOUSING]",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "MEMBRANE HOUSINGS",
     "subCategory2": "4080 PRESSURE TUBE FOR RO MEMBRANE",
     "price": {
@@ -1130,7 +1130,7 @@
   {
     "id": 95,
     "name": "8040 PRESSURE TUBE [MEMBRANE HOUSING] – UKL",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "MEMBRANE HOUSINGS",
     "subCategory2": "8040 PRESSURE TUBE FOR RO MEMBRANE",
     "price": {
@@ -1142,7 +1142,7 @@
   {
     "id": 96,
     "name": "8080 PRESSURE TUBE [MEMBRANE HOUSING] - UKL",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "MEMBRANE HOUSINGS",
     "subCategory2": "8080 PRESSURE TUBE FOR RO MEMBRANE",
     "price": {
@@ -1154,7 +1154,7 @@
   {
     "id": 97,
     "name": "RO MEMBRANE 4040 – DUPONT – TAPTEC LC HF",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "4040 RO MEMBRANES",
     "price": {
@@ -1166,7 +1166,7 @@
   {
     "id": 98,
     "name": "RO MEMBRANE 4040 DOW (DUPONT) BW-30 FILMTEC",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "4040 RO MEMBRANES",
     "price": {
@@ -1178,7 +1178,7 @@
   {
     "id": 99,
     "name": "RO MEMBRANE E-MEM – BW 4040",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "4040 RO MEMBRANES",
     "price": {
@@ -1190,7 +1190,7 @@
   {
     "id": 100,
     "name": "RO MEMBRANE LG BW 4040 R",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "4040 RO MEMBRANES",
     "price": {
@@ -1202,7 +1202,7 @@
   {
     "id": 101,
     "name": "RO MEMBRANE GE 4040 AG (SUEZ WATER) – VEOLIA",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "4040 RO MEMBRANES",
     "price": {
@@ -1214,7 +1214,7 @@
   {
     "id": 102,
     "name": "RO MEMBRANE E-MEM 8040 – BW 365",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "8040 RO MEMBRANES",
     "price": {
@@ -1226,7 +1226,7 @@
   {
     "id": 103,
     "name": "RO MEMBRANE DOW (DUPONT) FILMTEC 8040 BW30 – 365",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "8040 RO MEMBRANES",
     "price": {
@@ -1238,7 +1238,7 @@
   {
     "id": 104,
     "name": "RO MEMBRANE DOW (DUPONT) FILMTEC 8040 BW30 – 400",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "8040 RO MEMBRANES",
     "price": {
@@ -1250,7 +1250,7 @@
   {
     "id": 105,
     "name": "RO MEMBRANE GE 8040 AG 365 (SUEZ WATER)",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "8040 RO MEMBRANES",
     "price": {
@@ -1262,7 +1262,7 @@
   {
     "id": 106,
     "name": "RO MEMBRANE GE 8040 AG 400 (SUEZ WATER)",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "RO MEMBRANE",
     "subCategory2": "8040 RO MEMBRANES",
     "price": {
@@ -1274,7 +1274,7 @@
   {
     "id": 107,
     "name": "4 INCH END CAP FOR MEMBRANE HOUSING - UKL",
-    "category": "MEMBRANES & HOUSINGS",
+    "category": "MEMBRANES AND HOUSINGS",
     "subCategory": "MEMBRANE HOUSING SPACE",
     "subCategory2": null,
     "price": {
@@ -1681,7 +1681,7 @@
   },
   {
     "id": 141,
-    "name": "REDUCER ADAPTER 4\" X 2.5\" FOR VESSEL & MPV",
+    "name": "REDUCER ADAPTER 4\" X 2.5\" FOR VESSEL AND MPV",
     "category": "MULTIPORT VALVES",
     "subCategory": "MULTIPORT VALVE ACCESSORIES",
     "subCategory2": null,
@@ -1693,7 +1693,7 @@
   },
   {
     "id": 142,
-    "name": "BRINE DIRECTOR FOR 20 NB & 25 NB MPV",
+    "name": "BRINE DIRECTOR FOR 20 NB AND 25 NB MPV",
     "category": "MULTIPORT VALVES",
     "subCategory": "MULTIPORT VALVE ACCESSORIES",
     "subCategory2": null,
@@ -1705,7 +1705,7 @@
   },
   {
     "id": 143,
-    "name": "40 NB DISTRIBUTION SYSTEM (12 M3/HOUR) (TOP & BOTTOM SET)",
+    "name": "40 NB DISTRIBUTION SYSTEM (12 M3/HOUR) (TOP AND BOTTOM SET)",
     "category": "MULTIPORT VALVES",
     "subCategory": "DISTRIBUTION SYSTEMS",
     "subCategory2": null,
@@ -1717,7 +1717,7 @@
   },
   {
     "id": 144,
-    "name": "40 NB DISTRIBUTION SYSTEM (6 M3/HOUR) (TOP & BOTTOM SET)",
+    "name": "40 NB DISTRIBUTION SYSTEM (6 M3/HOUR) (TOP AND BOTTOM SET)",
     "category": "MULTIPORT VALVES",
     "subCategory": "DISTRIBUTION SYSTEMS",
     "subCategory2": null,
@@ -1754,7 +1754,7 @@
   {
     "id": 147,
     "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 11 NXT (EMBARK)",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
     "price": {
@@ -1766,7 +1766,7 @@
   {
     "id": 148,
     "name": "AUTOMATIC RO CONTROL PANEL – SIMPLY ASTERO 11 (EMBARK)",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
     "price": {
@@ -1778,7 +1778,7 @@
   {
     "id": 149,
     "name": "ACCORD PANEL BOARD AP GSM 1:1 – RO CONTROL PANEL",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
     "price": {
@@ -1790,7 +1790,7 @@
   {
     "id": 150,
     "name": "AP LED 1:1 NON TDS – RO CONTROL PANEL – ACCORD [APDP]",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
     "price": {
@@ -1802,7 +1802,7 @@
   {
     "id": 151,
     "name": "AP SMART LED 1:1 TDS – RO CONTROL PANEL – ACCORD [APDP]",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
     "price": {
@@ -1814,7 +1814,7 @@
   {
     "id": 152,
     "name": "AUTOMATIC RO CONTROL PANEL 11 – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
     "price": {
@@ -1826,7 +1826,7 @@
   {
     "id": 153,
     "name": "ACCORD PANEL BOARD AP 1:1 TDS – RO CONTROL PANEL",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
     "price": {
@@ -1838,7 +1838,7 @@
   {
     "id": 154,
     "name": "AUTOMATIC RO CONTROL PANEL 11 E WITH GSM – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
     "price": {
@@ -1850,7 +1850,7 @@
   {
     "id": 155,
     "name": "AUTOMATIC RO CONTROL PANEL ECO 11 – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "11 PANELS (RWP : 1 PHASE, HPP: 1 PHASE)",
     "price": {
@@ -1862,7 +1862,7 @@
   {
     "id": 156,
     "name": "ACCORD PANEL BOARD AP 1:3 TDS – RO CONTROL PANEL",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1874,7 +1874,7 @@
   {
     "id": 157,
     "name": "ACCORD PANEL BOARD AP GSM 1:3 – RO CONTROL PANEL",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1886,7 +1886,7 @@
   {
     "id": 158,
     "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 13 NXT",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1898,7 +1898,7 @@
   {
     "id": 159,
     "name": "AUTOMATIC RO CONTROL PANEL – SIMPLY ASTERO 13 (EMBARK)",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1910,7 +1910,7 @@
   {
     "id": 160,
     "name": "AUTOMATIC RO CONTROL PANEL 13 – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1922,7 +1922,7 @@
   {
     "id": 161,
     "name": "AUTOMATIC RO CONTROL PANEL 13 E WITH GSM – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "13 PANELS (RWP: 1 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1934,7 +1934,7 @@
   {
     "id": 162,
     "name": "ACCORD PANEL BOARD AP 3:3 TDS – RO CONTROL PANEL",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1946,7 +1946,7 @@
   {
     "id": 163,
     "name": "ACCORD PANEL BOARD AP GSM 3:3 – RO CONTROL PANEL",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1958,7 +1958,7 @@
   {
     "id": 164,
     "name": "AUTOMATIC RO CONTROL PANEL – SIMPLY ASTERO 33 (EMBARK)",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1970,7 +1970,7 @@
   {
     "id": 165,
     "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 33 NXT",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1982,7 +1982,7 @@
   {
     "id": 166,
     "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 33 NXT [10 HP]",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -1994,7 +1994,7 @@
   {
     "id": 167,
     "name": "AUTOMATIC RO CONTROL PANEL – ASTERO 33 NXT [7.5 HP]",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -2006,7 +2006,7 @@
   {
     "id": 168,
     "name": "AUTOMATIC RO CONTROL PANEL 33 – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -2018,7 +2018,7 @@
   {
     "id": 169,
     "name": "AUTOMATIC RO CONTROL PANEL 33 E WITH GSM – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "33 PANELS (RWP: 3 PHASE, HPP: 3 PHASE)",
     "price": {
@@ -2030,7 +2030,7 @@
   {
     "id": 170,
     "name": "ACCORD PANEL BOARD AP GSM 1:1 – RO CONTROL PANEL",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
     "price": {
@@ -2042,7 +2042,7 @@
   {
     "id": 171,
     "name": "ACCORD PANEL BOARD AP GSM 1:3 – RO CONTROL PANEL",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
     "price": {
@@ -2054,7 +2054,7 @@
   {
     "id": 172,
     "name": "AUTOMATIC RO CONTROL PANEL 11 E WITH GSM – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
     "price": {
@@ -2066,7 +2066,7 @@
   {
     "id": 173,
     "name": "AUTOMATIC RO CONTROL PANEL 13 E WITH GSM – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
     "price": {
@@ -2078,7 +2078,7 @@
   {
     "id": 174,
     "name": "AUTOMATIC RO CONTROL PANEL 33 E WITH GSM – RO CON",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "RO CONTROL PANEL",
     "subCategory2": "GSM BASED REMOTE MONITORING PANELS",
     "price": {
@@ -2090,7 +2090,7 @@
   {
     "id": 175,
     "name": "0 TO 21 KG/CM2 (300 PSI) BACK CONNECTION PRESSURE GAUGE – NZO",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE GAUGES",
     "subCategory2": "BACK CONNECTION [PANEL MOUNTES] PRESSURE GAUGE",
     "price": {
@@ -2102,7 +2102,7 @@
   {
     "id": 176,
     "name": "0 TO 21 KG/CM2 BACK CONNECTION PRESSURE GAUGE",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE GAUGES",
     "subCategory2": "BACK CONNECTION [PANEL MOUNTES] PRESSURE GAUGE",
     "price": {
@@ -2114,7 +2114,7 @@
   {
     "id": 177,
     "name": "0 TO 7 KG/CM2 (100 PSI) BACK CONNECTION PRESSURE GAUGE – NZO",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE GAUGES",
     "subCategory2": "BACK CONNECTION [PANEL MOUNTES] PRESSURE GAUGE",
     "price": {
@@ -2126,7 +2126,7 @@
   {
     "id": 178,
     "name": "0 TO 7 KG/CM2 BACK CONNECTION PRESSURE GAUGE",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE GAUGES",
     "subCategory2": "BACK CONNECTION [PANEL MOUNTES] PRESSURE GAUGE",
     "price": {
@@ -2138,7 +2138,7 @@
   {
     "id": 179,
     "name": "0 TO 21 KG/CM2 (300 PSI) BOTTOM CONNECTION PRESSURE GAUGE – NZO",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE GAUGES",
     "subCategory2": "BOTTOM CONNECTION [ONLINE] PRESSURE GAUGE",
     "price": {
@@ -2150,7 +2150,7 @@
   {
     "id": 180,
     "name": "0 TO 21 KG/CM2 BOTTOM CONNECTION PRESSURE GAUGE",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE GAUGES",
     "subCategory2": "BOTTOM CONNECTION [ONLINE] PRESSURE GAUGE",
     "price": {
@@ -2162,7 +2162,7 @@
   {
     "id": 181,
     "name": "0 TO 7 KG/CM2 (100 PSI) BOTTOM CONNECTION PRESSURE GAUGE – NZO",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE GAUGES",
     "subCategory2": "BOTTOM CONNECTION [ONLINE] PRESSURE GAUGE",
     "price": {
@@ -2174,7 +2174,7 @@
   {
     "id": 182,
     "name": "0 TO 7 KG/CM2 BOTTOM CONNECTION PRESSURE GAUGE",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE GAUGES",
     "subCategory2": "BOTTOM CONNECTION [ONLINE] PRESSURE GAUGE",
     "price": {
@@ -2186,7 +2186,7 @@
   {
     "id": 183,
     "name": "HPS – HIGH PRESSURE SWITCH – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE SWITCHES",
     "subCategory2": null,
     "price": {
@@ -2198,7 +2198,7 @@
   {
     "id": 184,
     "name": "HPS – HIGH PRESSURE SWITCH ASTER-NXT",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE SWITCHES",
     "subCategory2": null,
     "price": {
@@ -2210,7 +2210,7 @@
   {
     "id": 185,
     "name": "LPS – LOW PRESSURE SWITCH – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE SWITCHES",
     "subCategory2": null,
     "price": {
@@ -2222,7 +2222,7 @@
   {
     "id": 186,
     "name": "LPS – LOW PRESSURE SWITCH ASTER-NXT",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "PRESSURE SWITCHES",
     "subCategory2": null,
     "price": {
@@ -2234,7 +2234,7 @@
   {
     "id": 187,
     "name": "ROTAMETER 10000 LPH ONLINE [FLOW METER] – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "ONLINE ROTAMETERS",
     "price": {
@@ -2246,7 +2246,7 @@
   {
     "id": 188,
     "name": "ROTAMETER 1200 LPH ONLINE [FLOW METER]",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "ONLINE ROTAMETERS",
     "price": {
@@ -2258,7 +2258,7 @@
   {
     "id": 189,
     "name": "ROTAMETER 2400 LPH ONLINE [FLOW METER]",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "ONLINE ROTAMETERS",
     "price": {
@@ -2270,7 +2270,7 @@
   {
     "id": 190,
     "name": "ROTAMETER 3000 LPH ONLINE [FLOW METER] – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "ONLINE ROTAMETERS",
     "price": {
@@ -2282,7 +2282,7 @@
   {
     "id": 191,
     "name": "ROTAMETER 5000 LPH ONLINE [FLOW METER] – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "ONLINE ROTAMETERS",
     "price": {
@@ -2294,7 +2294,7 @@
   {
     "id": 192,
     "name": "ROTAMETER 7500 LPH ONLINE [FLOW METER] – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "ONLINE ROTAMETERS",
     "price": {
@@ -2306,7 +2306,7 @@
   {
     "id": 193,
     "name": "ROTAMETER 10000 LPH PANEL MOUNT [FLOW METER] – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "PANEL MOUNTED ROTAMETERS",
     "price": {
@@ -2318,7 +2318,7 @@
   {
     "id": 194,
     "name": "ROTAMETER 1200 LPH PANEL MOUNT [FLOW METER]",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "PANEL MOUNTED ROTAMETERS",
     "price": {
@@ -2330,7 +2330,7 @@
   {
     "id": 195,
     "name": "ROTAMETER 2400 LPH PANEL MOUNT [FLOW METER]",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "PANEL MOUNTED ROTAMETERS",
     "price": {
@@ -2342,7 +2342,7 @@
   {
     "id": 196,
     "name": "ROTAMETER 3000 LPH PANEL MOUNT [FLOW METER] – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "PANEL MOUNTED ROTAMETERS",
     "price": {
@@ -2354,7 +2354,7 @@
   {
     "id": 197,
     "name": "ROTAMETER 5000 LPH PANEL MOUNT [FLOW METER] – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "PANEL MOUNTED ROTAMETERS",
     "price": {
@@ -2366,7 +2366,7 @@
   {
     "id": 198,
     "name": "ROTAMETER 7500 LPH PANEL MOUNT [FLOW METER] – ASTER",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "ROTAMETERS",
     "subCategory2": "PANEL MOUNTED ROTAMETERS",
     "price": {
@@ -2378,7 +2378,7 @@
   {
     "id": 199,
     "name": "FLOAT SWITCH [WATER LEVEL CONTROLLER FLOAT SENSOR]",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "SENSORS",
     "subCategory2": null,
     "price": {
@@ -2390,7 +2390,7 @@
   {
     "id": 200,
     "name": "FLOW SENSOR 1.5\" (40 MM)",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "SENSORS",
     "subCategory2": null,
     "price": {
@@ -2402,7 +2402,7 @@
   {
     "id": 201,
     "name": "FLOW SENSOR 1\" (25 MM)",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "SENSORS",
     "subCategory2": null,
     "price": {
@@ -2414,7 +2414,7 @@
   {
     "id": 202,
     "name": "FLOW SENSOR 1/2\" (15 MM)",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "SENSORS",
     "subCategory2": null,
     "price": {
@@ -2426,7 +2426,7 @@
   {
     "id": 203,
     "name": "FLOW SENSOR 2\" (50 MM)",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "SENSORS",
     "subCategory2": null,
     "price": {
@@ -2438,7 +2438,7 @@
   {
     "id": 204,
     "name": "FLOW SENSOR 3/4\" (20 MM)",
-    "category": "INSTRUMENTS & PANELS",
+    "category": "INSTRUMENTS AND PANELS",
     "subCategory": "SENSORS",
     "subCategory2": null,
     "price": {
@@ -2461,7 +2461,7 @@
   },
   {
     "id": 206,
-    "name": "AQUASOL DIGITAL TDS & CONDUCTIVITY METER PEN TYPE",
+    "name": "AQUASOL DIGITAL TDS AND CONDUCTIVITY METER PEN TYPE",
     "category": "WATER TESTING METERS",
     "subCategory": "HANDHELD TESTING METERS",
     "subCategory2": null,
@@ -2701,7 +2701,7 @@
   },
   {
     "id": 226,
-    "name": "ONLINE CONDUCTIVITY & TDS METER CT-650 – ASTER (EMBARK)",
+    "name": "ONLINE CONDUCTIVITY AND TDS METER CT-650 – ASTER (EMBARK)",
     "category": "WATER TESTING METERS",
     "subCategory": "ONLINE (INLINE) TESTING METERS",
     "subCategory2": "ONLINE TDS / CONDUCTIVITY METER",
@@ -2774,7 +2774,7 @@
   {
     "id": 232,
     "name": "FLOW SENSOR 1.5\" (40 MM)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "RO PLANT ACCESSORIES",
     "subCategory2": null,
     "price": {
@@ -2786,7 +2786,7 @@
   {
     "id": 233,
     "name": "FLOW SENSOR 1\" (25 MM)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "RO PLANT ACCESSORIES",
     "subCategory2": null,
     "price": {
@@ -2798,7 +2798,7 @@
   {
     "id": 234,
     "name": "FLOW SENSOR 1/2\" (15 MM)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "RO PLANT ACCESSORIES",
     "subCategory2": null,
     "price": {
@@ -2810,7 +2810,7 @@
   {
     "id": 235,
     "name": "FLOW SENSOR 2\" (50 MM)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "RO PLANT ACCESSORIES",
     "subCategory2": null,
     "price": {
@@ -2822,7 +2822,7 @@
   {
     "id": 236,
     "name": "FLOW SENSOR 3/4\" (20 MM)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "RO PLANT ACCESSORIES",
     "subCategory2": null,
     "price": {
@@ -2834,7 +2834,7 @@
   {
     "id": 237,
     "name": "1 INCH AIR RELEASE VALVE (ARV) [VACUUM BREAKER] – RM",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "RO PLANT ACCESSORIES",
     "subCategory2": null,
     "price": {
@@ -2846,7 +2846,7 @@
   {
     "id": 238,
     "name": "40 NB AIR RELEASE VALVE (ARV) [VACUUM BREAKER]",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "RO PLANT ACCESSORIES",
     "subCategory2": null,
     "price": {
@@ -2857,8 +2857,8 @@
   },
   {
     "id": 239,
-    "name": "REDUCER ADAPTER 4\" X 2.5\" FOR VESSEL & MPV",
-    "category": "RO PLANTS & ACCESSORIES",
+    "name": "REDUCER ADAPTER 4\" X 2.5\" FOR VESSEL AND MPV",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "RO PLANT ACCESSORIES",
     "subCategory2": null,
     "price": {
@@ -2870,7 +2870,7 @@
   {
     "id": 240,
     "name": "ALFA ECOSTREAM UV ECS04L (UV FOR 250 LPH RO)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "UV PURIFIERS",
     "subCategory2": null,
     "price": {
@@ -2882,7 +2882,7 @@
   {
     "id": 241,
     "name": "ALFA ECOSTREAM UV ECS07L (UV FOR 500 LPH RO)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "UV PURIFIERS",
     "subCategory2": null,
     "price": {
@@ -2894,7 +2894,7 @@
   {
     "id": 242,
     "name": "ALFA ECOSTREAM UV ECS15L (UV FOR 1000 LPH RO)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "UV PURIFIERS",
     "subCategory2": null,
     "price": {
@@ -2906,7 +2906,7 @@
   {
     "id": 243,
     "name": "ALFA ECOSTREAM UV ECS25L (UV FOR 2000 LPH RO)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "UV PURIFIERS",
     "subCategory2": null,
     "price": {
@@ -2918,7 +2918,7 @@
   {
     "id": 244,
     "name": "ALFA ECOSTREAM UV ECS40L (UV FOR 3000 LPH RO)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "UV PURIFIERS",
     "subCategory2": null,
     "price": {
@@ -2930,7 +2930,7 @@
   {
     "id": 245,
     "name": "ALFA ECOSTREAM UV ECS70L (UV FOR 5000 LPH RO)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "UV PURIFIERS",
     "subCategory2": null,
     "price": {
@@ -2942,7 +2942,7 @@
   {
     "id": 246,
     "name": "DRY ACID FOR SWIMMING POOLS (50 KG) – ACURO",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "SWIMMING POOL COMPONENTS",
     "subCategory2": null,
     "price": {
@@ -2954,7 +2954,7 @@
   {
     "id": 247,
     "name": "POOLO (CONCENTRATED SWIMMING POOL ALGAECIDE) – ACURO – 25 KG",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "SWIMMING POOL COMPONENTS",
     "subCategory2": null,
     "price": {
@@ -2966,7 +2966,7 @@
   {
     "id": 248,
     "name": "POOLO (CONCENTRATED SWIMMING POOL ALGAECIDE) – ACURO – 5 KG",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "SWIMMING POOL COMPONENTS",
     "subCategory2": null,
     "price": {
@@ -2978,7 +2978,7 @@
   {
     "id": 249,
     "name": "PSEUDOMONAS + TOTAL BACTERIA COUNT TEST KIT – BS103",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "SWIMMING POOL COMPONENTS",
     "subCategory2": null,
     "price": {
@@ -2990,7 +2990,7 @@
   {
     "id": 250,
     "name": "COCONUT SHELL ACTIVATED CARBON 1100 IV – RADOCARB – G110 (25 KG)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "SWIMMING POOL COMPONENTS",
     "subCategory2": null,
     "price": {
@@ -3002,7 +3002,7 @@
   {
     "id": 251,
     "name": "COCONUT SHELL ACTIVATED CARBON 1100 IV (25 KG) VIRGIN GRADE",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "SWIMMING POOL COMPONENTS",
     "subCategory2": null,
     "price": {
@@ -3014,7 +3014,7 @@
   {
     "id": 252,
     "name": "GLASS FILTRATION MEDIA – EMAUX (25 KG)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "SWIMMING POOL COMPONENTS",
     "subCategory2": null,
     "price": {
@@ -3026,7 +3026,7 @@
   {
     "id": 253,
     "name": "ONLINE ASTER ORP METER PO-650 – ASTER (EMBARK)",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "SWIMMING POOL COMPONENTS",
     "subCategory2": null,
     "price": {
@@ -3038,7 +3038,7 @@
   {
     "id": 254,
     "name": "WATER ATM RFID CARDS – ASTER [PACK OF 100]",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3050,7 +3050,7 @@
   {
     "id": 255,
     "name": "WATER ATM RFID CARDS – ASTER [PACK OF 25]",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3062,7 +3062,7 @@
   {
     "id": 256,
     "name": "WATER ATM RFID CARDS – ASTER [PACK OF 50]",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3074,7 +3074,7 @@
   {
     "id": 257,
     "name": "WATER ATM RFID CARDS – RO CON [PACK OF 100]",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3086,7 +3086,7 @@
   {
     "id": 258,
     "name": "WATER ATM RFID CARDS – RO CON [PACK OF 25]",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3098,7 +3098,7 @@
   {
     "id": 259,
     "name": "WATER ATM RFID CARDS – RO CON [PACK OF 50]",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3110,7 +3110,7 @@
   {
     "id": 260,
     "name": "RO CON COIN + SMART CARD BASED WATER ATM",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3122,7 +3122,7 @@
   {
     "id": 261,
     "name": "RO CON COIN + SMART CARD BASED WATER ATM WITH 2 TAPS",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3134,7 +3134,7 @@
   {
     "id": 262,
     "name": "RO CON COIN + SMART CARD BASED WATER ATM WITH GSM",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3146,7 +3146,7 @@
   {
     "id": 263,
     "name": "RO CON COIN BASED WATER ATM",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3158,7 +3158,7 @@
   {
     "id": 264,
     "name": "RO CON COIN BASED WATER ATM WITH 2 TAPS",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3170,7 +3170,7 @@
   {
     "id": 265,
     "name": "RO CON COIN BASED WATER ATM WITH GSM",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3182,7 +3182,7 @@
   {
     "id": 266,
     "name": "RO CON SMART CARD BASED WATER ATM",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3194,7 +3194,7 @@
   {
     "id": 267,
     "name": "RO CON SMART CARD BASED WATER ATM WITH 2 TAPS",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3206,7 +3206,7 @@
   {
     "id": 268,
     "name": "RO CON SMART CARD BASED WATER ATM WITH GSM",
-    "category": "RO PLANTS & ACCESSORIES",
+    "category": "RO PLANTS AND ACCESSORIES",
     "subCategory": "WATER ATM",
     "subCategory2": null,
     "price": {
@@ -3337,7 +3337,7 @@
   },
   {
     "id": 279,
-    "name": "YEAST & FUNGI + TOTAL BACTERIA COUNT TEST KIT – BS101",
+    "name": "YEAST AND FUNGI + TOTAL BACTERIA COUNT TEST KIT – BS101",
     "category": "TESTING KITS",
     "subCategory": "BACTERIA TESTING KITS",
     "subCategory2": null,

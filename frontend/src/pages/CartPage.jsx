@@ -16,7 +16,6 @@ export default function CartPage() {
 
   const navigate = useNavigate();
 
-  const [showAddress, setShowAddress] = useState(false);
   const [showQuotationForm, setShowQuotationForm] = useState(false);
 
   const [customer, setCustomer] = useState({
@@ -30,7 +29,6 @@ export default function CartPage() {
   const GST = totalAmount * 0.18;
   const GRAND_TOTAL = totalAmount + SHIPPING + GST;
 
-  // EMPTY CART UI
   if (cart.length === 0) {
     return (
       <section className="max-w-7xl mx-auto px-6 py-20 flex flex-col items-center text-center">
@@ -51,15 +49,12 @@ export default function CartPage() {
     );
   }
 
-  // PDF GENERATION
   const downloadQuotation = () => {
     const doc = new jsPDF();
     let y = 15;
 
-    // LOGO
     doc.addImage(logo, "JPG", 14, y, 30, 18);
 
-    // COMPANY INFO
     doc.setFontSize(16);
     doc.text("NWT Filtration", 50, y + 6);
 
@@ -77,7 +72,6 @@ export default function CartPage() {
     );
     doc.text("GSTIN: 29AYRPA9808K1ZQ", 50, y + 24);
 
-    // META
     doc.text(`Date: ${new Date().toLocaleDateString()}`, 150, 20);
     doc.text(
       `Quotation ID: Q-NWT-${Date.now().toString().slice(-5)}`,
@@ -85,7 +79,6 @@ export default function CartPage() {
       26
     );
 
-    // CUSTOMER DETAILS
     y = 60;
     doc.setFontSize(11);
     doc.text("To,", 14, y);
@@ -98,7 +91,6 @@ export default function CartPage() {
     y += 5;
     doc.text(`Phone: ${customer.phone}`, 14, y);
 
-    // INTRO
     y += 10;
     doc.setFontSize(10);
     doc.text(
@@ -107,7 +99,6 @@ export default function CartPage() {
       y
     );
 
-    // TABLE HEADER
     y += 12;
     doc.text("S.No", 14, y);
     doc.text("Product Description", 30, y);
@@ -118,7 +109,6 @@ export default function CartPage() {
     y += 2;
     doc.line(14, y, 195, y);
 
-    // TABLE BODY
     y += 8;
     cart.forEach((item, index) => {
       const unit = getFinalPrice(item);
@@ -133,7 +123,6 @@ export default function CartPage() {
       y += 8;
     });
 
-    // TOTALS
     y += 5;
     doc.line(120, y, 195, y);
     y += 6;
@@ -154,7 +143,6 @@ export default function CartPage() {
     doc.text("Grand Total", 140, y);
     doc.text(`${GRAND_TOTAL.toFixed(2)}`, 195, y, { align: "right" });
 
-    // TERMS
     y += 12;
     doc.setFontSize(10);
     doc.text("Terms and Conditions", 14, y);
@@ -163,7 +151,6 @@ export default function CartPage() {
     y += 5;
     doc.text("• Payment Terms: Full payment in advance", 14, y);
 
-    // SIGNATURE
     y += 12;
     doc.text("Sincerely Yours,", 14, y);
     y += 6;
@@ -176,7 +163,9 @@ export default function CartPage() {
 
   return (
     <>
-      <section className="max-w-7xl mx-auto px-6 py-10 grid grid-cols-1 lg:grid-cols-3 gap-10">
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-10 grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-10">
+        
+        {/* LEFT */}
         <div className="lg:col-span-2 space-y-6">
           <h2 className="text-2xl font-semibold">Shopping Cart</h2>
 
@@ -187,9 +176,10 @@ export default function CartPage() {
             return (
               <div
                 key={item.id}
-                className="bg-white border rounded-xl p-5 shadow-sm flex gap-6"
+                className="bg-white border rounded-xl p-4 sm:p-5 shadow-sm flex flex-col md:flex-row gap-4 md:gap-6"
               >
-                <div className="w-28 h-28 border rounded-lg bg-gray-50 flex items-center justify-center">
+                {/* IMAGE */}
+                <div className="w-24 h-24 sm:w-28 sm:h-28 border rounded-lg bg-gray-50 flex items-center justify-center mx-auto md:mx-0">
                   <img
                     src={item.image}
                     alt={item.name}
@@ -197,8 +187,9 @@ export default function CartPage() {
                   />
                 </div>
 
+                {/* CONTENT */}
                 <div className="flex-1 min-w-0">
-                  <h4 className="text-lg font-semibold line-clamp-2">
+                  <h4 className="text-base sm:text-lg font-semibold line-clamp-2">
                     {item.name}
                   </h4>
 
@@ -208,8 +199,9 @@ export default function CartPage() {
                     </p>
                   )}
 
-                  <div className="flex items-center gap-4 mt-4">
+                  <div className="flex flex-wrap items-center gap-3 sm:gap-4 mt-4">
                     <span className="text-sm">Quantity</span>
+
                     <div className="flex border rounded-lg overflow-hidden">
                       <button
                         onClick={() => removeItem(item.id)}
@@ -217,7 +209,9 @@ export default function CartPage() {
                       >
                         −
                       </button>
+
                       <span className="px-4 py-1">{item.qty}</span>
+
                       <button
                         onClick={() => addItem(item)}
                         className="px-3 py-1 hover:bg-gray-100"
@@ -228,8 +222,9 @@ export default function CartPage() {
                   </div>
                 </div>
 
-                <div className="text-right">
-                  <p className="font-semibold text-lg">
+                {/* PRICE (moves below on mobile) */}
+                <div className="text-right md:text-right mt-3 md:mt-0">
+                  <p className="font-semibold text-base sm:text-lg">
                     {lineTotal.toFixed(2)}
                   </p>
 
@@ -244,7 +239,8 @@ export default function CartPage() {
           })}
         </div>
 
-        <div className="bg-gray-50 border rounded-xl p-6 h-fit sticky top-24 space-y-4">
+        {/* RIGHT SUMMARY */}
+        <div className="bg-gray-50 border rounded-xl p-5 sm:p-6 h-fit sticky top-20 space-y-4">
           <h3 className="text-lg font-semibold">Order Summary</h3>
 
           <div className="flex justify-between">
@@ -285,8 +281,9 @@ export default function CartPage() {
         </div>
       </section>
 
+      {/* QUOTATION POPUP */}
       {showQuotationForm && (
-        <div className="fixed inset-0 bg-black/40 flex items-center justify-center z-50">
+        <div className="fixed inset-0 bg-black/40 flex items-center justify-center z-50 px-4">
           <div className="bg-white rounded-xl p-6 w-full max-w-md space-y-4">
             <h3 className="text-lg font-semibold">Customer Details</h3>
 
@@ -334,6 +331,7 @@ export default function CartPage() {
               >
                 Cancel
               </button>
+
               <button
                 onClick={() => {
                   downloadQuotation();

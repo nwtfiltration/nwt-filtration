@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 export default function AdminOrders() {
   const [orders, setOrders] = useState([]);
@@ -9,15 +10,16 @@ export default function AdminOrders() {
       .then(setOrders)
       .catch(() => alert("Failed to fetch orders"));
   }, []);
+
   return (
-    <div className="max-w-6xl mx-auto p-6">
+    <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
       <h1 className="text-2xl font-bold mb-4">All Orders</h1>
 
       {orders.length === 0 ? (
         <p>No orders yet.</p>
       ) : (
-        <div className="overflow-x-auto">
-          <table className="w-full border rounded-lg text-sm">
+        <div className="overflow-x-auto border rounded-lg">
+          <table className="w-full text-sm">
             <thead className="bg-gray-100">
               <tr>
                 <th className="p-3 text-left">ID</th>
@@ -33,19 +35,27 @@ export default function AdminOrders() {
             <tbody>
               {orders.map(order => (
                 <tr key={order.id} className="border-b">
-<td className="p-3 font-semibold">
-  <a
-    href={`/admin/orders/${order.id}`}
-    className="text-blue-600 underline"
-  >
-    #{order.id}
-  </a>
-</td>
-                  <td className="p-3">{order.customer_name}</td>
+                  <td className="p-3 font-semibold">
+                    <Link
+                      to={`/admin/orders/${order.id}`}
+                      className="text-blue-600 underline"
+                    >
+                      #{order.id}
+                    </Link>
+                  </td>
+
+                  <td className="p-3 truncate max-w-[160px]">
+                    {order.customer_name}
+                  </td>
+
                   <td className="p-3">{order.phone}</td>
+
                   <td className="p-3 font-medium">₹{order.total}</td>
+
                   <td className="p-3">{order.payment_status}</td>
+
                   <td className="p-3">{order.order_status}</td>
+
                   <td className="p-3">
                     {new Date(order.created_at).toLocaleDateString()}
                   </td>
@@ -57,5 +67,4 @@ export default function AdminOrders() {
       )}
     </div>
   );
-
 }

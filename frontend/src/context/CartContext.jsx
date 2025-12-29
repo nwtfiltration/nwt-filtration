@@ -3,32 +3,22 @@ import { createContext, useContext, useEffect, useState } from "react";
 const CartContext = createContext();
 
 export const CartProvider = ({ children }) => {
-  // 1️⃣ Load cart from localStorage
   const [cart, setCart] = useState(() => {
     const storedCart = localStorage.getItem("nwt_cart");
     return storedCart ? JSON.parse(storedCart) : [];
   });
 
-  // 2️⃣ Save cart to localStorage on every change
   useEffect(() => {
     localStorage.setItem("nwt_cart", JSON.stringify(cart));
   }, [cart]);
 
-  // 👉 Detect dealer (token stored after login)
   const isDealer = !!localStorage.getItem("dealer_token");
 
-  // ⭐ Central discount logic (used everywhere)
   const getFinalPrice = (item) => {
     const base = item.price?.discounted ?? item.price?.original ?? 0;
-
-    if (isDealer) {
-      return base * 0.9; // 10% OFF for dealer
-    }
-
-    return base;
+    return isDealer ? base * 0.9 : base;
   };
 
-  // 3️⃣ Add item (normalized)
   const addItem = (product) => {
     const normalizedProduct = {
       ...product,
@@ -50,7 +40,6 @@ export const CartProvider = ({ children }) => {
     });
   };
 
-  // 4️⃣ Remove item
   const removeItem = (id) => {
     setCart((prev) =>
       prev
@@ -61,17 +50,19 @@ export const CartProvider = ({ children }) => {
     );
   };
 
-  // 5️⃣ Clear cart
   const clearCart = () => {
     setCart([]);
     localStorage.removeItem("nwt_cart");
   };
 
-  // 6️⃣ Total uses dealer price logic
+  // ⭐ TOTAL AMOUNT (dealer logic applied)
   const totalAmount = cart.reduce(
     (sum, item) => sum + getFinalPrice(item) * item.qty,
     0
   );
+
+  // ⭐ TOTAL QTY (NEW)
+  const totalQty = cart.reduce((sum, item) => sum + item.qty, 0);
 
   return (
     <CartContext.Provider
@@ -81,6 +72,7 @@ export const CartProvider = ({ children }) => {
         removeItem,
         clearCart,
         totalAmount,
+        totalQty,      // <-- added
         getFinalPrice,
         isDealer,
       }}

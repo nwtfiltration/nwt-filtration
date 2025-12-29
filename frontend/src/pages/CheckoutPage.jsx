@@ -60,7 +60,6 @@ export default function CheckoutPage() {
       });
 
       const data = await res.json();
-
       navigate(`/order-success/${data.orderId}`);
     } catch (err) {
       console.error(err);
@@ -69,17 +68,17 @@ export default function CheckoutPage() {
   };
 
   return (
-    <section className="max-w-7xl mx-auto px-6 py-10 grid grid-cols-1 lg:grid-cols-3 gap-10">
+    <section className="max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-10 grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-10">
 
       {/* LEFT – BILLING DETAILS */}
-      <div className="lg:col-span-2 bg-white border rounded-xl p-6 space-y-6">
+      <div className="lg:col-span-2 bg-white border rounded-xl p-5 sm:p-6 space-y-6">
         <h2 className="text-2xl font-semibold">Checkout</h2>
         <p className="text-sm text-gray-500">
           Enter billing and delivery details
         </p>
 
         {/* BILLING FORM */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-3 sm:gap-4">
 
           <input
             className="border rounded p-3"
@@ -139,7 +138,7 @@ export default function CheckoutPage() {
         </div>
 
         {/* PAYMENT */}
-        <div className="pt-4">
+        <div className="pt-2 sm:pt-4">
           <h3 className="font-semibold mb-2">Payment Method</h3>
 
           <div className="border rounded-lg p-4 bg-gray-50">
@@ -158,7 +157,7 @@ export default function CheckoutPage() {
       </div>
 
       {/* RIGHT – ORDER SUMMARY */}
-      <div className="bg-gray-50 border rounded-xl p-6 h-fit sticky top-24 space-y-5">
+      <div className="bg-gray-50 border rounded-xl p-5 sm:p-6 h-fit lg:sticky lg:top-24 space-y-5">
         <h3 className="text-lg font-semibold">Order Summary</h3>
 
         <div className="space-y-4 text-sm max-h-64 overflow-y-auto">

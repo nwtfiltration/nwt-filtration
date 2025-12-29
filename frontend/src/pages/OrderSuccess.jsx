@@ -15,27 +15,36 @@ export default function OrderSuccess() {
   if (!data) return <p className="p-6">Loading...</p>;
 
   return (
-    <div className="p-6 max-w-3xl mx-auto">
-      <h1 className="text-2xl font-bold mb-3">
+    <div className="px-4 sm:px-6 py-8 max-w-3xl mx-auto">
+      <h1 className="text-2xl font-bold mb-4">
         Order Placed Successfully 🎉
       </h1>
 
-      <div className="border rounded p-4">
+      {/* ORDER DETAILS CARD */}
+      <div className="border rounded-lg p-4 bg-white shadow-sm">
         <p><b>Order ID:</b> {orderId}</p>
         <p><b>Payment Method:</b> Cash on Delivery</p>
         <p><b>Payment Status:</b> Pending</p>
       </div>
 
-      <h2 className="font-semibold mt-4 mb-2">Items</h2>
+      {/* ITEMS */}
+      <h2 className="font-semibold mt-5 mb-2">Items</h2>
 
-      {data.items.map(item => (
-        <div key={item.id} className="flex justify-between border-b py-2">
-          <span>{item.product_name} × {item.quantity}</span>
-          <span>₹{item.total_price}</span>
-        </div>
-      ))}
+      <div className="border rounded-lg">
+        {data.items.map(item => (
+          <div
+            key={item.id}
+            className="flex justify-between gap-4 border-b py-2 px-3 text-sm"
+          >
+            <span className="truncate">
+              {item.product_name} × {item.quantity}
+            </span>
+            <span>₹{item.total_price}</span>
+          </div>
+        ))}
+      </div>
 
-      <h2 className="font-semibold mt-4">
+      <h2 className="font-semibold mt-4 text-lg">
         Total: ₹{data.order.total}
       </h2>
 
@@ -43,7 +52,10 @@ export default function OrderSuccess() {
         Our team will contact you soon and collect payment on delivery.
       </p>
 
-      <Link to="/" className="inline-block mt-4 text-blue-600 underline">
+      <Link
+        to="/"
+        className="inline-block mt-5 text-blue-600 underline"
+      >
         Go back to home
       </Link>
     </div>
