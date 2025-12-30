@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block admin pages from search
+Disallow: /admin/
+Disallow: /dealer-login
+
+Sitemap: https://nwtfiltration.com/sitemap.xml
