@@ -2,7 +2,6 @@ import { useParams, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { Helmet } from "react-helmet";
 
-
 export default function AdminOrderDetails() {
   const { id } = useParams();
   const [data, setData] = useState(null);
@@ -56,13 +55,13 @@ export default function AdminOrderDetails() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8">
       <Helmet>
-  <title>Order Details — NWT Filtration Admin</title>
+        <title>Order Details — NWT Filtration Admin</title>
 
-  <meta
-    name="description"
-    content="View customer order details, update status and manage delivery workflow."
-  />
-</Helmet>
+        <meta
+          name="description"
+          content="View customer order details, update status and manage delivery workflow."
+        />
+      </Helmet>
 
       <Link to="/admin/orders" className="text-blue-600 underline">
         ← Back to Orders
@@ -70,14 +69,21 @@ export default function AdminOrderDetails() {
 
       <h1 className="text-2xl font-bold mt-3">Order #{order.id}</h1>
 
-      {/* CUSTOMER + STATUS CARDS */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-5">
+      {/* CARDS */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-5 mt-5">
         {/* CUSTOMER */}
         <div className="border rounded-lg p-4 bg-white">
           <h2 className="font-semibold mb-2">Customer</h2>
           <p>{order.name}</p>
           <p>{order.phone}</p>
-          <p className="text-sm text-gray-600 mt-1">{order.address}</p>
+
+          <p className="text-sm text-gray-600 mt-2">{order.address}</p>
+
+          {(order.city || order.state) && (
+            <p className="text-sm text-gray-600">
+              {order.city} {order.state && `, ${order.state}`}
+            </p>
+          )}
         </div>
 
         {/* STATUS */}
@@ -114,6 +120,27 @@ export default function AdminOrderDetails() {
             </button>
           </div>
         </div>
+
+        {/* LOGISTICS / BILLING */}
+        <div className="border rounded-lg p-4 bg-white">
+          <h2 className="font-semibold mb-2">Logistics & Billing</h2>
+
+          <p>
+            <b>Courier:</b> {order.courier || "Not selected"}
+          </p>
+
+          <p>
+            <b>Shipping:</b> ₹{order.shipping ?? 0}
+          </p>
+
+          <p>
+            <b>GST (18%):</b> ₹{order.gst}
+          </p>
+
+          <p className="mt-2 font-bold text-lg">
+            Total: ₹{order.total}
+          </p>
+        </div>
       </div>
 
       {/* ITEMS */}
@@ -132,10 +159,6 @@ export default function AdminOrderDetails() {
           </div>
         ))}
       </div>
-
-      <h2 className="mt-4 font-bold text-lg">
-        Total: ₹{order.total}
-      </h2>
     </div>
   );
 }

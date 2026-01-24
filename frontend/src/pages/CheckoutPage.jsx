@@ -3,7 +3,6 @@ import { useCart } from "../context/CartContext";
 import { useNavigate } from "react-router-dom";
 import { Helmet } from "react-helmet";
 
-
 export default function CheckoutPage() {
   const { cart, totalAmount } = useCart();
   const navigate = useNavigate();
@@ -16,16 +15,68 @@ export default function CheckoutPage() {
     city: "",
     state: "",
     pincode: "",
-    gstin: ""
+    gstin: "",
   });
 
-  const SHIPPING = 1050;
+  // 🔹 shipping dynamic (starts 0)
+  const [shipping, setShipping] = useState(0);
+
+  // 🔹 transport search / input
+  const [transport, setTransport] = useState("");
+
   const GST = totalAmount * 0.18;
-  const GRAND_TOTAL = totalAmount + SHIPPING + GST;
+  const GRAND_TOTAL = totalAmount + shipping + GST;
 
   const handleChange = (e) => {
-    setCustomer({ ...customer, [e.target.name]: e.target.value });
+    const { name, value } = e.target;
+
+    setCustomer({ ...customer, [name]: value });
+
+    // 🔹 when state or city changes → update tariff
+    if (name === "state" || name === "city") {
+      calculateTariff(
+        name === "state" ? value : customer.state,
+        name === "city" ? value : customer.city
+      );
+    }
   };
+
+  // ------------------------------
+  // SHIPPING TARIFF LOGIC
+  // ------------------------------
+  function calculateTariff(state, city) {
+    if (!state) return;
+
+    let price = 0;
+
+    const s = state.toLowerCase();
+
+    // simple example tariff — SAFE
+    if (
+      s.includes("karnataka") ||
+      s.includes("andhra") ||
+      s.includes("tamil") ||
+      s.includes("telangana")
+    ) {
+      price = 400;
+    } else if (
+      s.includes("maharashtra") ||
+      s.includes("kerala") ||
+      s.includes("goa")
+    ) {
+      price = 600;
+    } else if (
+      s.includes("gujarat") ||
+      s.includes("rajasthan") ||
+      s.includes("mp")
+    ) {
+      price = 800;
+    } else {
+      price = 1000; // default all-india
+    }
+
+    setShipping(price);
+  }
 
   const placeOrder = async () => {
     if (!customer.name || !customer.phone || !customer.address) {
@@ -33,11 +84,17 @@ export default function CheckoutPage() {
       return;
     }
 
+    if (!transport) {
+      alert("Please select / enter a transport service");
+      return;
+    }
+
     const summary = {
       subtotal: totalAmount,
       gst: GST,
-      shipping: SHIPPING,
-      total: GRAND_TOTAL
+      shipping,
+      total: GRAND_TOTAL,
+      transport,
     };
 
     try {
@@ -50,14 +107,18 @@ export default function CheckoutPage() {
             company: customer.company,
             phone: customer.phone,
             address: `${customer.address}, ${customer.city}, ${customer.state} - ${customer.pincode}`,
+            city: customer.city,
+            state: customer.state,
+            gstin: customer.gstin,
           },
-          cart: cart.map(item => ({
+          cart: cart.map((item) => ({
             id: item.id,
             name: item.name,
             qty: item.qty,
-            price: item.price.discounted
+            price: item.price.discounted,
           })),
-          summary
+          transport,
+          summary,
         }),
       });
 
@@ -72,13 +133,13 @@ export default function CheckoutPage() {
   return (
     <section className="max-w-7xl mx-auto px-4 sm:px-6 py-8 sm:py-10 grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-10">
       <Helmet>
-  <title>Checkout — NWT Filtration</title>
+        <title>Checkout — NWT Filtration</title>
 
-  <meta
-    name="description"
-    content="Complete your quotation request and order details for RO, UF, UV and industrial filtration systems."
-  />
-</Helmet>
+        <meta
+          name="description"
+          content="Complete your quotation request and order details for RO, UF, UV and industrial filtration systems."
+        />
+      </Helmet>
 
       {/* LEFT – BILLING DETAILS */}
       <div className="lg:col-span-2 bg-white border rounded-xl p-5 sm:p-6 space-y-6">
@@ -89,7 +150,6 @@ export default function CheckoutPage() {
 
         {/* BILLING FORM */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3 sm:gap-4">
-
           <input
             className="border rounded p-3"
             placeholder="Full Name *"
@@ -147,6 +207,22 @@ export default function CheckoutPage() {
           />
         </div>
 
+        {/* TRANSPORT */}
+        <div>
+          <h3 className="font-semibold mt-4 mb-1">Transport / Courier</h3>
+
+          <input
+            className="border rounded p-3 w-full"
+            placeholder="Search / type transport service (ex: VRL, SRMT, DTDC)"
+            value={transport}
+            onChange={(e) => setTransport(e.target.value)}
+          />
+
+          <p className="text-xs text-gray-500 mt-1">
+            All-India services supported — choose the one you prefer.
+          </p>
+        </div>
+
         {/* PAYMENT */}
         <div className="pt-2 sm:pt-4">
           <h3 className="font-semibold mb-2">Payment Method</h3>
@@ -193,8 +269,8 @@ export default function CheckoutPage() {
           </div>
 
           <div className="flex justify-between">
-            <span>Shipping</span>
-            <span>₹{SHIPPING}</span>
+            <span>Shipping (auto-calculated)</span>
+            <span>₹{shipping}</span>
           </div>
 
           <div className="flex justify-between">

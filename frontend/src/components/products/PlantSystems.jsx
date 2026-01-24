@@ -7,32 +7,32 @@ const plantProducts = [
     category: "PLANT SYSTEMS",
     title: "Sewage Water Treatment Plant (SWT)",
     image: "/assets/products/swt.png",
-    oldPrice: "₹1,20,000",
-    price: 98000
+    oldPrice: "₹4,80,000",
+    price: 420000
   },
   {
     id: 2,
     category: "PLANT SYSTEMS",
     title: "Effluent Treatment Plant (ETP)",
     image: "/assets/products/etp.jpg",
-    oldPrice: "₹2,10,000",
-    price: 178000
+    oldPrice: "₹4,10,000",
+    price: 380000
   },
   {
     id: 3,
     category: "PLANT SYSTEMS",
     title: "Ultra Filtration Plant (UF)",
     image: "/assets/products/uf.jpg",
-    oldPrice: "₹80,000",
-    price: 68000
+    oldPrice: "₹280,000",
+    price: 180000
   },
   {
     id: 4,
     category: "PLANT SYSTEMS",
     title: "RO Plant – 1000 LPH",
     image: "/assets/products/ro1000lph.jpg",
-    oldPrice: "₹3,60,000",
-    price: 290000
+    oldPrice: "₹2,60,000",
+    price: 160000
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const plantProducts = [
     title: "Ultraviolet Difinfection Plant",
     image: "/assets/products/uv.jpg",
     oldPrice: "₹1,50,000",
-    price: 120000
+    price: 48000
   }
 ];
 

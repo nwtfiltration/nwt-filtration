@@ -517,7 +517,7 @@
   },
   {
     "id": 44,
-    "name": "CHEMIRO 909 RO ANTISCALANT – ACURO – 25 KG",
+    "name": "AQUATICA 909 RO ANTISCALANT – ACURO – 25 KG",
     "category": "RO CHEMICALS",
     "subCategory": "RO ANTISCALANT",
     "subCategory2": null,
@@ -525,71 +525,11 @@
       "original": "4000",
       "discounted": "3255"
     },
-    "image": "/products/rochemicals1.png"
-  },
-  {
-    "id": 45,
-    "name": "CHEMIRO 909 RO ANTISCALANT – ACURO – 5 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "1200",
-      "discounted": "700"
-    },
-    "image": "/products/rochemicals2.png"
-  },
-  {
-    "id": 46,
-    "name": "CHEMIRO 909N NSF CERTIFIED FOOD GRADE RO ANTISCALANT – ACURO – 25 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "4800",
-      "discounted": "3675"
-    },
-    "image": "/products/rochemicals3.jpg"
-  },
-  {
-    "id": 47,
-    "name": "CHEMIRO 909N NSF CERTIFIED FOOD GRADE RO ANTISCALANT – ACURO – 5 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "1180",
-      "discounted": "799"
-    },
-    "image": "/products/rochemicals4.jpg"
-  },
-  {
-    "id": 48,
-    "name": "HIGH PH ANTISCALANT (RADIX 39) – ACURO – 25 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "7250",
-      "discounted": "6125"
-    },
-    "image": "/products/rochemicals5.jpg"
-  },
-  {
-    "id": 49,
-    "name": "HIGH PH ANTISCALANT (RADIX 39) – ACURO – 5 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "1680",
-      "discounted": "1295"
-    },
-    "image": "/products/rochemicals6.jpg"
+    "image": "/products/rochemicals1.jpg"
   },
   {
     "id": 50,
-    "name": "HIGH SILICA INHIBITION RO ANTISCALANT (RADIX 95) NSF – ACURO – 25 KG",
+    "name": "HIGH SILICA INHIBITION RO ANTISCALANT (AQUATICA) NSF – ACURO – 25 KG",
     "category": "RO CHEMICALS",
     "subCategory": "RO ANTISCALANT",
     "subCategory2": null,
@@ -599,75 +539,16 @@
     },
     "image": "/products/rochemicals7.jpg"
   },
-  {
-    "id": 51,
-    "name": "HIGH SILICA INHIBITION RO ANTISCALANT (RADIX 95) NSF – ACURO – 5 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "2100",
-      "discounted": "1435"
-    },
-    "image": "/products/rochemicals8.png"
-  },
-  {
-    "id": 52,
-    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 300 – 20 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "5700",
-      "discounted": "3680"
-    },
-    "image": "/products/rochemicals9.jpg"
-  },
-  {
-    "id": 53,
-    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 301 – 20 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "5700",
-      "discounted": "3680"
-    },
-    "image": "/products/rochemicals10.jpg"
-  },
-  {
-    "id": 54,
-    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 305 – 20 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "4400",
-      "discounted": "2720"
-    },
-    "image": "/products/rochemicals11.png"
-  },
-  {
-    "id": 55,
-    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 310 – 20 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO ANTISCALANT",
-    "subCategory2": null,
-    "price": {
-      "original": "6700",
-      "discounted": "4800"
-    },
-    "image": "/products/rochemicals12.jpeg"
-  },
+  
   {
     "id": 56,
-    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 320 – 20 KG",
+    "name": "NSF CERTIFIED FOOD GRADE RO ANTISCALANT WT – RD 320 – 5 KG",
     "category": "RO CHEMICALS",
     "subCategory": "RO ANTISCALANT",
     "subCategory2": null,
     "price": {
-      "original": "7700",
-      "discounted": "5440"
+      "original": "2200",
+      "discounted": "1100"
     },
     "image": "/products/rochemicals13.png"
   },
@@ -683,69 +564,10 @@
     },
     "image": "/products/rochemicals14.jpeg"
   },
-  {
-    "id": 58,
-    "name": "NSF CERTIFIED FOOD GRADE RO ACIDIC CLEANER WT – ROC1600 – 20 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO CLEANING CHEMICALS",
-    "subCategory2": null,
-    "price": {
-      "original": "4400",
-      "discounted": "1680"
-    },
-    "image": "/products/rochemicals15.jpg"
-  },
-  {
-    "id": 59,
-    "name": "NSF CERTIFIED FOOD GRADE RO ALKALINE CLEANER WT – ROC1800 – 20 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO CLEANING CHEMICALS",
-    "subCategory2": null,
-    "price": {
-      "original": "5500",
-      "discounted": "2380"
-    },
-    "image": "/products/rochemicals16.jpg"
-  },
-  {
-    "id": 60,
-    "name": "NSF CERTIFIED FOOD GRADE RO BIOFOULING CLEANER WT – ROB900 – 20 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO CLEANING CHEMICALS",
-    "subCategory2": null,
-    "price": {
-      "original": "6700",
-      "discounted": "4800"
-    },
-    "image": "/products/rochemicals17.jpg"
-  },
-  {
-    "id": 61,
-    "name": "ROKLEEN 21 LOW PH RO MEMBRANE CLEANER – ACURO – 5 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO CLEANING CHEMICALS",
-    "subCategory2": null,
-    "price": {
-      "original": "1499",
-      "discounted": "1249"
-    },
-    "image": "/products/rochemicals18.jpg"
-  },
-  {
-    "id": 62,
-    "name": "ROKLEEN 27 HIGH PH RO MEMBRANE CLEANER – ACURO – 5 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "RO CLEANING CHEMICALS",
-    "subCategory2": null,
-    "price": {
-      "original": "1699",
-      "discounted": "1249"
-    },
-    "image": "/products/rochemicals19.jpg"
-  },
+  
   {
     "id": 63,
-    "name": "PH BOOSTER FOR RO (RADIX P25) FOOD GRADE – ACURO – 5 KG",
+    "name": "PH BOOSTER FOR RO FOOD GRADE – ACURO – 5 KG",
     "category": "RO CHEMICALS",
     "subCategory": "pH BOOSTER",
     "subCategory2": null,
@@ -754,54 +576,6 @@
       "discounted": "980"
     },
     "image": "/products/rochemicals20.jpg"
-  },
-  {
-    "id": 64,
-    "name": "PH BOOSTER FOR RO (RADIX P25) FOOD GRADE – ACURO – 25 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "pH BOOSTER",
-    "subCategory2": null,
-    "price": {
-      "original": "6200",
-      "discounted": "4900"
-    },
-    "image": "/products/rochemicals21.jpg"
-  },
-  {
-    "id": 65,
-    "name": "WATREAT – UDAAQ – PH BOOSTER WT-P200 NSF CERTIFIED FOOD GRADE – 20 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "pH BOOSTER",
-    "subCategory2": null,
-    "price": {
-      "original": "3600",
-      "discounted": "1920"
-    },
-    "image": "/products/rochemicals22.jpg"
-  },
-  {
-    "id": 66,
-    "name": "MINERAL BOOSTER FOR WATER – MINIPLUS – ACURO – 25 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "MINERAL ADDITIVES",
-    "subCategory2": null,
-    "price": {
-      "original": "6800",
-      "discounted": "5600"
-    },
-    "image": "/products/rochemicals23.jpg"
-  },
-  {
-    "id": 67,
-    "name": "MINERAL BOOSTER FOR WATER – MINIPLUS – ACURO – 5 KG",
-    "category": "RO CHEMICALS",
-    "subCategory": "MINERAL ADDITIVES",
-    "subCategory2": null,
-    "price": {
-      "original": "1630",
-      "discounted": "1380"
-    },
-    "image": "/products/rochemicals24.jpg"
   },
   {
     "id": 68,

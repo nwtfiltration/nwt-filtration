@@ -38,15 +38,25 @@ app.post("/api/orders", (req, res) => {
   console.log("REQUEST BODY ===>");
   console.log(req.body);
 
-  const { customer, cart, summary } = req.body;
+  const { customer, cart, summary, transport } = req.body;
 
   // 1) insert customer
-  const customerSql =
-    "INSERT INTO customers (name, company, phone, address) VALUES (?,?,?,?)";
+  const customerSql = `
+    INSERT INTO customers 
+    (name, company, phone, address, city, state)
+    VALUES (?,?,?,?,?,?)
+  `;
 
   db.query(
     customerSql,
-    [customer.name, customer.company, customer.phone, customer.address],
+    [
+      customer.name,
+      customer.company,
+      customer.phone,
+      customer.address,
+      customer.city || "",
+      customer.state || "",
+    ],
     (err, customerResult) => {
       if (err) return res.status(500).json(err);
 
@@ -55,8 +65,8 @@ app.post("/api/orders", (req, res) => {
       // 2) create order
       const orderSql = `
         INSERT INTO orders 
-        (customer_id, subtotal, gst, shipping, total, payment_status, order_status, payment_method)
-        VALUES (?,?,?,?,?,'PENDING','CREATED','COD')
+        (customer_id, subtotal, gst, shipping, total, courier, payment_status, order_status, payment_method)
+        VALUES (?,?,?,?,?,?,'PENDING','CREATED','COD')
       `;
 
       db.query(
@@ -67,6 +77,7 @@ app.post("/api/orders", (req, res) => {
           summary.gst,
           summary.shipping,
           summary.total,
+          summary.transport || transport || "Not Selected",
         ],
         (err, orderResult) => {
           if (err) return res.status(500).json(err);
@@ -80,7 +91,7 @@ app.post("/api/orders", (req, res) => {
             VALUES ?
           `;
 
-          const values = cart.map(item => [
+          const values = cart.map((item) => [
             orderId,
             item.id,
             item.name,
@@ -89,7 +100,7 @@ app.post("/api/orders", (req, res) => {
             item.qty * item.price,
           ]);
 
-          db.query(itemsSql, [values], async err => {
+          db.query(itemsSql, [values], async (err) => {
             if (err) return res.status(500).json(err);
 
             /* --------------------------------------------------
@@ -105,6 +116,7 @@ app.post("/api/orders", (req, res) => {
                   <p><b>Order ID:</b> #${orderId}</p>
                   <p><b>Name:</b> ${customer.name}</p>
                   <p><b>Phone:</b> ${customer.phone}</p>
+                  <p><b>Transport:</b> ${summary.transport || transport || "Not Selected"}</p>
                   <p><b>Total:</b> ₹${summary.total}</p>
                   <hr />
                   <p>Login to dashboard to view complete order.</p>
@@ -144,7 +156,7 @@ app.get("/api/orders/:id", (req, res) => {
   const orderId = req.params.id;
 
   const sql = `
-    SELECT o.*, c.name, c.company, c.phone, c.address
+    SELECT o.*, c.name, c.company, c.phone, c.address, c.city, c.state
     FROM orders o
     JOIN customers c ON o.customer_id = c.id
     WHERE o.id = ?
@@ -223,6 +235,8 @@ app.get("/api/orders", (req, res) => {
     SELECT 
       o.id,
       o.total,
+      o.shipping,
+      o.courier,
       o.payment_status,
       o.order_status,
       o.created_at,
@@ -239,6 +253,7 @@ app.get("/api/orders", (req, res) => {
     res.json(results);
   });
 });
+
 
 app.put("/api/orders/:id/status", (req, res) => {
   const { status } = req.body;

@@ -7,7 +7,7 @@ export default function AdminOrders() {
 
   useEffect(() => {
     fetch("http://localhost:5000/api/orders")
-      .then(res => res.json())
+      .then((res) => res.json())
       .then(setOrders)
       .catch(() => alert("Failed to fetch orders"));
   }, []);
@@ -15,13 +15,13 @@ export default function AdminOrders() {
   return (
     <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8">
       <Helmet>
-  <title>Admin — Orders Dashboard | NWT Filtration</title>
+        <title>Admin — Orders Dashboard | NWT Filtration</title>
 
-  <meta
-    name="description"
-    content="Admin panel to manage customer orders, payment status and delivery progress."
-  />
-</Helmet>
+        <meta
+          name="description"
+          content="Admin panel to manage customer orders, payment status and delivery progress."
+        />
+      </Helmet>
 
       <h1 className="text-2xl font-bold mb-4">All Orders</h1>
 
@@ -35,6 +35,8 @@ export default function AdminOrders() {
                 <th className="p-3 text-left">ID</th>
                 <th className="p-3 text-left">Customer</th>
                 <th className="p-3 text-left">Phone</th>
+                <th className="p-3 text-left">Courier</th>
+                <th className="p-3 text-left">Shipping</th>
                 <th className="p-3 text-left">Total</th>
                 <th className="p-3 text-left">Payment</th>
                 <th className="p-3 text-left">Status</th>
@@ -43,7 +45,7 @@ export default function AdminOrders() {
             </thead>
 
             <tbody>
-              {orders.map(order => (
+              {orders.map((order) => (
                 <tr key={order.id} className="border-b">
                   <td className="p-3 font-semibold">
                     <Link
@@ -59,6 +61,16 @@ export default function AdminOrders() {
                   </td>
 
                   <td className="p-3">{order.phone}</td>
+
+                  {/* NEW — Courier */}
+                  <td className="p-3">
+                    {order.courier || "—"}
+                  </td>
+
+                  {/* NEW — Shipping */}
+                  <td className="p-3">
+                    ₹{order.shipping ?? 0}
+                  </td>
 
                   <td className="p-3 font-medium">₹{order.total}</td>
 
