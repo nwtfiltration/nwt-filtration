@@ -9,7 +9,7 @@ export default function AdminOrderDetails() {
   const updateStatus = async (status) => {
     try {
       const res = await fetch(
-        `http://localhost:5000/api/orders/${id}/status`,
+        `https://miraculous-bravery-production.up.railway.app/api/orders/${id}/status`,
         {
           method: "PUT",
           headers: { "Content-Type": "application/json" },
@@ -42,7 +42,7 @@ export default function AdminOrderDetails() {
   };
 
   useEffect(() => {
-    fetch(`http://localhost:5000/api/orders/${id}`)
+    fetch(`https://miraculous-bravery-production.up.railway.app/api/orders/${id}`)
       .then((res) => res.json())
       .then(setData)
       .catch(() => alert("Failed to fetch order"));

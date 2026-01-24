@@ -27,7 +27,7 @@ export default function DealerRegister() {
     }
 
     try {
-      const res = await fetch("http://localhost:5000/api/dealers/create", {
+      const res = await fetch("https://miraculous-bravery-production.up.railway.app/api/dealers/create", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(form),

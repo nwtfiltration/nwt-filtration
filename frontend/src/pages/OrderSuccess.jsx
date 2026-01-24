@@ -7,7 +7,7 @@ export default function OrderSuccess() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/api/orders/${orderId}`)
+    fetch(`https://miraculous-bravery-production.up.railway.app/api/orders/${orderId}`)
       .then(res => res.json())
       .then(setData)
       .catch(() => alert("Failed to fetch order"));

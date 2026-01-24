@@ -6,7 +6,7 @@ export default function AdminOrders() {
   const [orders, setOrders] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/orders")
+    fetch("https://miraculous-bravery-production.up.railway.app/api/orders")
       .then((res) => res.json())
       .then(setOrders)
       .catch(() => alert("Failed to fetch orders"));
